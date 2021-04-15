@@ -1,0 +1,1000 @@
+id,gendercode,latereferralcode,racialorigincode,racialoriginother,primaryrenaldiseasecode,primaryrenaldiseaseother,biopsycode,creatinineatentry,height,weight,smokingcode,rrtstartdate,rrtstartcode,deathdate,graftsustaininglifecode,cancerever,chroniclungcode,coronaryarterycode,peripheralvascularcode,cerebrovasularcode,diabetescode,diabetescode_text
+P10002268,M,N,Caucasoid,,Cystinosis,,,600,112.7,21.8,Never,01may1990,APD/IPD Hospital,,,No,N,N,Y,Y,N,No
+P10002998,M,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,1234,152,33.6,Never,30aug1990,Hospital HD,,,Yes,N,N,N,N,N,No
+P10003314,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,1025,162,53,Never,07apr1991,Hospital HD,20feb2016,Y,No,N,N,Y,N,N,No
+P10013539,M,N,Caucasoid,,Spina Bifida or Myelomeningocoele,PREFLUX NEPHROPATHY,N,646,175,85,Never,08may1990,Hospital HD,,,No,N,N,Y,N,N,No
+P10014911,M,N,North - East Asian - Chinese,,Henoch-Schonlein Purpura,,Y,,154,51.5,Never,25jul1990,Hospital HD,17jul2004,Y,Yes,N,N,N,N,N,No
+P10015203,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,,449,163,,Former,02oct1990,Hospital HD,28aug2004,Y,Yes,N,N,N,N,N,No
+P10018005,M,N,Caucasoid,,Posterior Urethral Valves,NEUROPATHIC BLADDER,N,,107,22.2,Current,13may1990,APD/IPD Hospital,,,Yes,N,N,S,N,N,No
+P10019512,M,N,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,503,,,Former,27feb1990,Hospital HD,,,No,N,N,N,N,N,No
+P10023225,M,N,Caucasoid,,Reflux Nephropathy,,,940,162,51,Never,02nov1988,Hospital HD,16sep2005,N,No,N,N,N,N,N,No
+P10025194,M,N,South-East Asian (Specify),LAOTIAN,Reflux Nephropathy,STAGHORN CALCULI,N,542,,,Current,17oct1989,Hospital HD,19nov2011,Y,No,N,N,N,N,N,No
+P10029760,M,Y,Caucasoid,,Obstructed Megaureter,,N,1294,149.5,43.2,Former,07nov1988,Hospital HD,,,No,N,N,N,N,N,No
+P10031584,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,874,169.5,55.6,Never,08mar1994,Hospital HD,,,No,N,N,N,N,N,No
+P10031931,F,Y,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,,175,,Never,15dec1988,Hospital HD,,,No,N,N,S,N,N,No
+P10033923,M,Y,Caucasoid,,Reflux Nephropathy,,,320,163,55,Former,30jan1989,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P10035825,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,740,168,,Never,05sep1988,Hospital HD,,,No,N,N,N,N,N,No
+P10035903,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,1300,,,Current,11sep1988,Hospital HD,,,No,N,N,N,N,N,No
+P10037726,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,650,,,Never,07oct1988,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P10039851,M,Y,Caucasoid,,Megaureter,,N,280,155,,Current,19nov1987,Hospital HD,,,No,N,N,N,N,N,No
+P1042342,M,N,Caucasoid,,Mesangial Proliferative (Iga+),FOCAL SCLEROSING GN,Y,508,158,78,Never,02mar1995,CAPD Hospital/Outpatient,,,No,Y,N,N,N,N,No
+P1042500,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1600,184,82,Current,21aug1995,Hospital HD,,,No,N,N,N,N,N,No
+P1042635,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,694,180,89,Never,10jul1995,Hospital HD,12sep2009,Y,No,N,N,N,N,N,No
+P1049272,M,N,Caucasoid,,S.L.E.,,Y,661,172,79,Former,01sep1997,Hospital HD,,,No,N,N,N,N,N,No
+P1050375,M,N,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,340,172,97,Former,05sep1997,Hospital HD,,,No,N,N,N,N,N,No
+P1051365,M,,Caucasoid,,Microscopic Polyarteritis,,Y,380,173,75,Never,02sep1996,Hospital HD,28nov2015,N,No,N,N,N,N,N,No
+P1051723,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,,,154,52,Never,07may1996,CAPD Hospital/Outpatient,,,No,Y,N,N,N,O,Type 1 - Insulin Dependent
+P1051959,M,N,Caucasoid,,Reflux Nephropathy,,,,160,53,Current,31jan1996,Hospital HD,,,No,S,N,N,N,N,No
+P1119852,M,Y,,,,,,457,,,Never,15nov2016,CAPD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P1124455,M,N,South-East Asian - Filipino,,Focal Sclerosing GN (Including Hyalinosis),,Y,599,153,46,Former,14dec2016,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P1125456,M,N,,,,,,1020,,,Former,22nov2016,Transplant in AUST/NZ,,,Yes,N,N,N,N,,
+P1127952,M,N,Oceanian - Australian,,Cadmium Toxicity,,N,780,166,75,Never,04dec2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P1129561,M,N,North - East Asian (Specify),KOREAN,Polycystic Kidney Disease,,N,498,174,72,Never,30jun2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P1132510,F,N,Oceanian - Australian,,Polycystic Kidney Disease,,N,,174,97.5,Current,10sep2015,HD Home - Conventional,,,No,N,N,N,Y,N,No
+P1139663,F,N,Oceanian - New Zealand European,,Lithium Toxicity,,N,1069,151,72.59999999999999,Former,17aug2015,HD Hospital - Conventional,,,No,N,Y,N,N,N,No
+P1141745,F,N,Oceanian - Australian,,Polycystic Kidney Disease,,Y,700,168,69,Never,10nov2015,HD Hospital - Conventional,,,No,N,N,N,N,,
+P2042569,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,,151,58,Never,07jun1996,Hospital HD,,,No,N,Y,N,N,N,No
+P2050442,M,N,Caucasoid,,Membranous GN,,Y,830,178,93.3,Former,21aug1999,Hospital HD,,,No,N,Y,N,N,N,No
+P2050656,F,N,Southern and Central Asian - Indian,,Uncertain Diagnosis,?RENOVASCULAR DISEASE,N,644,153,61,Former,15feb1999,CAPD Hospital/Outpatient,17may2014,Y,No,N,N,N,N,N,No
+P2050959,M,N,Caucasoid,,Reflux Nephropathy,NEPHRECTOMY 1979,N,417,172.7,82,Never,25feb1999,Hospital HD,,,No,N,N,N,N,N,No
+P2050982,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,578,180.3,78,Current,12dec1998,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P2051005,M,N,Caucasoid,,Membranous GN,,Y,669,158,65,Never,11jun1999,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P2051207,M,N,Caucasoid,,Interstitial Nephritis,POST RADIOTHERAPY,N,352,165,61.5,Former,09sep1998,Hospital HD,,,No,N,N,N,N,N,No
+P2051601,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,565,182.8,110,Former,03dec1997,Hospital HD,14may2011,N,Yes,N,N,N,N,N,No
+P6046297,M,N,Caucasoid,,Reflux Nephropathy,,N,327,166,59.4,Former,19apr2016,HD Hospital - Conventional,,,No,Y,N,N,N,N,No
+P6048445,F,N,Caucasoid,,Neuropathic Bladder,,N,555,155,67,Former,16feb2016,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P6092377,F,N,Oceanian - Melanesian And Papuan (Specify),NEW CALEDONIAN,Uncertain Diagnosis,,Y,734,158.5,52,Former,24sep2015,HD Satellite - Conventional,,,No,N,N,Y,N,,
+P6139647,M,N,Caucasoid,,Membranous GN,,,660,181,86.2,Never,02may2016,HD Hospital - Conventional,,,No,N,S,N,N,O,Type 1 - Insulin Dependent
+P6140300,M,N,Oceanian - Australian,,,,,760,172,86,,03jun2014,HD Hospital - Conventional,,,No,N,Y,N,N,N,No
+P6141098,M,N,Oceanian - Australian,,Posterior Urethral Valves,,N,523,166.4,69,Current,21apr2016,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7043666,M,N,Oceanian - Australian Aboriginal,,Mesangial Proliferative (Iga+),,Y,964,162,90,Never,08feb2005,CAPD Hospital/Outpatient,,,No,N,N,Y,N,N,No
+P7044260,F,Y,North - East Asian - Chinese,,Diabetes Type II (Insulin Requiring),,N,973,148.5,56,Never,19jan2005,Hospital HD,,,Yes,N,N,Y,N,Q,Type 2 - Insulin Requiring
+P7045116,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,346,180,82,Never,06apr2005,Hospital HD,,,No,N,N,N,N,N,No
+P7045261,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,766,170,58,Never,17feb2005,Hospital HD,,,No,N,N,N,N,N,No
+P7045297,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,1740,175.2,98.8,Current,04jul2005,Satellite HD,,,No,N,N,N,N,N,No
+P7045453,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1100,181,81,Never,01aug2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7046150,M,N,Caucasoid,,Familial GN (Including Alports),ALPORTS,Y,773,190,75,Never,22feb2005,Hospital HD,,,No,N,S,Y,N,N,No
+P7046837,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,890,178,78,Never,24may2005,Hospital HD,,,No,N,N,N,N,N,No
+P7047288,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,441,160,56.5,Never,30apr2005,Hospital HD,28dec2011,Y,No,N,N,N,N,N,No
+P7047658,M,N,Southern and Central Asian - Indian,,Other (Specify),PRIMARY HYPERPARATHYROIDISM,N,1246,157.5,62,Never,11mar2005,Hospital HD,,,No,N,N,N,N,N,No
+P7048322,F,N,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),ANCA POSITIVE,Y,483,183,84,Never,30jun2005,Hospital HD,,,No,N,N,N,N,N,No
+P7048469,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,,177,64.5,Never,08feb2005,Hospital HD,15may2013,Y,No,N,N,Y,N,N,No
+P7048604,M,N,Caucasoid,,Mesangiocapillary GN (Dense Deposit Disease),,Y,661,182,76.5,Never,26jul2005,Hospital HD,,,No,N,N,N,N,N,No
+P7048716,F,,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,657,177,79,Never,26may2005,Hospital HD,,,No,N,N,Y,N,O,Type 1 - Insulin Dependent
+P7049153,F,N,North - East Asian (Specify),JAPANESE,Mesangial Proliferative (Iga+),,Y,1210,168,55,Never,30jun2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7049470,M,N,Caucasoid,,Interstitial Nephritis,IGA NEPHROPATHY,Y,441,173,76.5,Never,12jun2005,Hospital HD,,,Yes,N,N,N,N,N,No
+P7049773,M,N,Caucasoid,,Presumed GN (No Biopsy),?IGA NEPHROPATHY,N,836,176,83,Never,26apr2005,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7051145,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,425,180,89,Current,16jun2005,Hospital HD,,,Yes,N,N,N,N,N,No
+P7051393,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,773,180,94.7,Never,26jan2005,Hospital HD,,,No,N,N,N,Y,N,No
+P7051697,M,N,Caucasoid,,Uncertain Diagnosis,,N,692,149,68,Former,11jan2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7052112,M,Y,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,230,159,111,Never,06jan2005,Hospital HD,,,No,N,Y,N,N,N,No
+P7052576,M,N,Oceanian - Melanesian And Papuan (Specify),PAPUA NEW GUINEAN,Diabetes Type II (Insulin Requiring),,N,1033,182,91.5,Former,08sep2008,CAPD Hospital/Outpatient,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7052833,F,N,Caucasoid,,Reflux Nephropathy,,Y,642,171,58,Never,12sep2008,Hospital HD,,,No,N,N,N,N,N,No
+P7053318,F,Y,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,N,613,159,97.8,Former,26nov2008,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7054297,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,932,178.5,72,Former,11nov2008,Hospital HD,,,No,N,N,N,Y,O,Type 1 - Insulin Dependent
+P7054858,F,N,Caucasoid,,Reflux Nephropathy,,N,554,164.5,97,Never,01oct2008,Hospital HD,,,No,N,Y,N,N,N,No
+P7055207,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,,167,74,Never,24nov2008,Hospital HD,,,Yes,N,N,Y,N,O,Type 1 - Insulin Dependent
+P7055353,M,,South-East Asian - Vietnamese,,Focal Sclerosing GN (Including Hyalinosis),,Y,750,160,58,Never,17nov2008,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P7055601,M,N,North - East Asian - Chinese,,Diabetes Type II (Insulin Requiring),,N,575,162,55.4,Former,01dec2008,CAPD Hospital/Outpatient,,,No,N,N,Y,N,Q,Type 2 - Insulin Requiring
+P7056950,M,N,Caucasoid,,Polycystic Kidney Disease,,N,884,183,76,Never,17nov2008,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7057242,M,N,South-East Asian - Vietnamese,,Diabetes Type I (Insulin Dependent),,Y,690,149,51.5,Current,04nov2008,Hospital HD,09may2016,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7057311,M,N,Caucasoid,,Uncertain Diagnosis,,N,673,170.5,96,Current,14oct2008,CAPD Hospital/Outpatient,,,Yes,N,N,Y,N,N,No
+P7057547,F,N,Oceanian - Polynesian (Specify),COOK ISLANDER,Obstructive Nephropathy,,N,400,67.5,9,Never,26mar2008,APD/IPD Hospital,,,No,,N,N,N,N,No
+P7057716,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,514,168,68,Never,09oct2008,Hospital HD,,,No,N,N,N,N,N,No
+P7058571,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,931,157,58,Current,03nov2008,Transplant in AUST/NZ,,,No,N,S,N,N,N,No
+P7058886,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,N,870,158,74,Never,10oct2008,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7058952,M,N,Caucasoid,,Other (Specify),JUVENILE NEPHRONOPHTHISIS,Y,1800,157.7,37,Never,28oct2008,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P7059269,M,Y,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,383,162,84.09999999999999,Current,08oct2008,Hospital HD,,,No,N,N,N,N,N,No
+P7059381,F,N,Caucasoid,,Reflux Nephropathy,,N,700,163,120.3,Former,04aug2008,Hospital HD,,,No,N,N,N,N,N,No
+P7059392,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,409,176,96.2,Never,20aug2008,Hospital HD,,,Yes,N,S,N,N,N,No
+P7059505,F,Y,Caucasoid,,Ureteric Obstructive Nephropathy,,N,949,147,62,Never,08oct2008,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P7059661,M,N,Caucasoid,,Other (Specify),FIBROMYOLIPOMATOSIS,Y,673,175,71,Never,20oct2008,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7059764,M,N,South East Asian - Malay,,Polycystic Kidney Disease,,N,790,165,63,Current,08aug2008,Satellite HD,,,No,N,N,N,Y,N,No
+P7059830,M,N,Caucasoid,,Uncertain Diagnosis,CONGENITAL SINGLE KIDNEY,N,431,161,73,Never,13oct2008,Hospital HD,,,Yes,N,N,N,N,N,No
+P7060010,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,602,182,96,,13oct2008,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P7060495,F,N,Caucasoid,,Polycystic Kidney Disease,,Y,701,170,78,Former,13aug2008,Hospital HD,,,No,N,N,S,N,N,No
+P7060550,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1167,178,90.59999999999999,Former,23nov2007,Hospital HD,,,No,N,N,N,N,N,No
+P7061191,M,N,Caucasoid,,Polycystic Kidney Disease,,N,927,176,81.5,Never,15sep2008,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7061608,M,N,Caucasoid,,Other (Specify),LAURENCE-MOON-BARDET-BIEDL SYNDROME,N,,,,Never,15jun2003,Hospital HD,,,No,N,N,N,S,N,No
+P7061663,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,648,156,71.90000000000001,Never,11sep2008,Hospital HD,06apr2016,Y,No,N,N,S,N,N,No
+P7061968,M,Y,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,340,160,96.8,Never,14aug2008,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7062023,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,960,173,106,Never,13aug2008,CAPD Hospital/Outpatient,,,No,N,Y,N,N,Q,Type 2 - Insulin Requiring
+P7062397,F,Y,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,675,182,71.8,Former,17mar2008,APD/IPD Hospital,19sep2011,Y,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7063239,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1090,185,116,Former,09may2008,Hospital HD,,,No,N,N,N,N,N,No
+P7063308,F,N,Caucasoid,,Calcineurin Inhibitor Toxicity,,Y,81,169,52,Current,12apr2008,Hospital HD,,,No,N,N,N,N,N,No
+P7063454,F,N,Caucasoid,,Calculi,LOSS OF SINGLE KIDNEY,N,,186,108,Never,08aug2008,Hospital HD,,,No,N,N,N,N,N,No
+P7063488,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,460,177.8,60,Former,06mar2008,Transplant in AUST/NZ,,,Yes,N,,Y,N,N,No
+P7064444,M,Y,South-East Asian - Filipino,,Mesangial Proliferative (Iga+),,Y,645,156.5,56,Former,27aug2008,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7065456,F,N,Southern and Central Asian - Indian,,Polycystic Kidney Disease,,Y,1166,175,79,Never,15apr2006,CAPD Hospital/Outpatient,,,No,N,Y,N,N,P,Type 2 - Non-Insulin Requiring
+P7066480,M,N,Caucasoid,,Polycystic Kidney Disease,,Y,598,167,104,Never,16jul2008,Satellite HD,,,Yes,N,N,N,N,N,No
+P7066727,F,N,Caucasoid,,Reflux Nephropathy,,Y,,164,86.7,Never,01aug2008,Hospital HD,,,No,N,N,Y,N,N,No
+P7069382,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1012,176.5,89,Current,10apr2008,Hospital HD,,,Yes,N,N,N,N,N,No
+P7072330,F,N,Caucasoid,,Reflux Nephropathy,,N,861,177,94.3,Never,11jan2008,Satellite HD,,,No,N,N,N,N,N,No
+P7072633,M,Y,South-East Asian - Vietnamese,,Mesangiocapillary GN (Dense Deposit Disease),,Y,,171,74,Never,08jan2008,Hospital HD,,,No,N,N,N,N,N,No
+P7073309,M,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,,168,72,Never,02may2008,Hospital HD,,,No,N,Y,N,N,P,Type 2 - Non-Insulin Requiring
+P7073320,F,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,439,193,98.5,Current,28may2008,Satellite HD,,,No,N,N,N,N,N,No
+P7073983,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,600,159,44,Never,08may2008,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7074343,F,N,Caucasoid,,Polycystic Kidney Disease,,N,511,165,95,Former,28apr2008,APD/IPD Hospital,,,No,N,N,N,,N,No
+P7074816,F,N,Oceanian - Polynesian (Specify),TONGAN,Diabetes Type II (Insulin Requiring),,N,799,168,93,Never,05may2008,Hospital HD,,,No,N,Y,N,N,Q,Type 2 - Insulin Requiring
+P7075253,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,744,168,70.3,Former,21feb2008,Hospital HD,,,No,N,N,N,S,N,No
+P7076232,M,N,Caucasoid,,Oxalosis,,Y,1220,137.5,35,Never,14mar2008,Hospital HD,,,No,N,N,N,N,N,No
+P7076976,M,N,Caucasoid,,Polycystic Kidney Disease,,N,3200,172,85.5,Former,03apr2008,Hospital HD,,,Yes,N,N,N,N,N,No
+P7077560,M,N,Southern and Central Asian - Indian,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis, DIABETIC GLOMERULOSCLEROSIS,Y,3460,171,89.5,Never,28apr2008,CAPD Hospital/Outpatient,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7078021,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,918,167,62,Never,14apr2008,CAPD Hospital/Outpatient,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7078043,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,1090,178,114,Never,07apr2008,Hospital HD,06may2014,Y,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7081273,M,N,Caucasoid,,Haemolytic Uraemic Syndrome,,N,2520,164,58,Never,04feb2008,Satellite HD,,,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P7082004,M,Y,Caucasoid,,Membranous GN,,Y,838,154,48.5,Never,07jan2008,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7082105,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,589,180,83,Former,23nov2007,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7082183,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,562,165,60,Current,31jan2008,Hospital HD,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7083468,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1100,186,81.3,Never,07jan2008,CAPD Hospital/Outpatient,,,No,N,N,N,Y,N,No
+P7085357,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1010,190.5,96.59999999999999,Never,07dec2007,Hospital HD,,,No,N,N,N,N,N,No
+P7085660,M,N,South-East Asian - Vietnamese,,Presumed GN (No Biopsy),,N,1070,169,53,Never,20dec2007,Hospital HD,25feb2014,Y,No,N,Y,N,N,N,No
+P7086088,M,N,Southern and Central Asian - Indian,,Mesangial Proliferative (Iga+),,Y,870,174.5,73,Never,11dec2007,Hospital HD,,,No,N,N,N,N,N,No
+P7086482,M,N,Caucasoid,,Polycystic Kidney Disease,,N,908,185,78,Never,11dec2007,Hospital HD,,,No,N,N,Y,N,N,No
+P7087517,F,N,Oceanian - New Zealand Maori,,Diabetes Type II (Insulin Requiring),,N,,160.5,85.59999999999999,,30jul2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7087719,M,N,Caucasoid,,Renal Vascular Disease (Malignant Hypertension) No prd,,Y,1454,171,78,Current,08may2007,Hospital HD,,,No,N,N,N,N,N,No
+P7088586,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,,165,60.2,Never,12nov2007,Hospital HD,,,No,N,N,N,N,N,No
+P7088855,F,Y,Caucasoid,,Presumed GN (No Biopsy),,N,783,168,64,Never,03oct2007,Hospital HD,,,No,N,N,N,N,N,No
+P7089192,M,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,590,157,45.5,Never,04dec2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7089215,M,N,Caucasoid,,Membranous GN,,Y,,178,93,Never,02nov2007,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7089283,M,N,Caucasoid,,Familial GN (Including Alports),ALPORTS,Y,563,152,72.7,Never,23oct2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7090430,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,392,177,88.7,Never,05oct2007,Hospital HD,,,No,N,Y,N,N,N,No
+P7091633,M,N,Caucasoid,,Presumed GN (No Biopsy),?ALPORTS,N,840,161,60,Never,03aug2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7093253,M,N,Oceanian - New Zealand Maori,,S.L.E.,,Y,859,160,48.7,Former,12jan2007,Hospital HD,,,No,N,Y,N,N,N,No
+P7093795,F,N,Caucasoid,,Uncertain Diagnosis,,N,738,176,101,Never,13aug2007,Transplant in AUST/NZ,22jul2016,Y,No,N,N,N,Y,P,Type 2 - Non-Insulin Requiring
+P7095031,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,,165,92.59999999999999,Never,30jan2007,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7096257,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,948,163,51,Never,02jul2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7096472,M,N,Caucasoid,,Other (Specify),MEDULLARY SPONGE KIDNEY,N,1150,168,60,Never,10jul2007,CAPD Hospital/Outpatient,01aug2014,Y,No,N,N,N,N,N,No
+P7096686,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,470,159,66.5,Former,19jul2007,Satellite HD,,,No,N,N,N,N,N,No
+P7097157,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,565,160,80,Never,21may2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7097349,F,Y,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,730,172,76.59999999999999,Never,18jul2007,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7098012,M,N,Caucasoid,,Microscopic Polyarteritis,,Y,523,167.5,62.9,Never,09jul2007,Hospital HD,24apr2008,Y,No,N,,N,N,N,No
+P7098767,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,477,178,68,Never,21nov2007,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7099025,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1090,183,80,Never,28mar2007,Hospital HD,,,No,N,N,N,Y,N,No
+P7099081,M,N,Caucasoid,,Analgesic Nephropathy,,N,580,173,81.90000000000001,Never,04may2007,Hospital HD,,,No,N,N,N,N,N,No
+P7099621,M,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,764,176,115,Former,18jun2007,Satellite HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7099992,M,N,Caucasoid,,Analgesic Nephropathy,,N,493,163,78.90000000000001,Former,29jun2007,Hospital HD,,,No,N,N,N,N,N,No
+P7101916,F,N,South-East Asian (Specify),CAMBODIAN,Mesangial Proliferative (Iga+),,Y,1490,152,50.4,Never,28may2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7102085,M,N,Oceanian - Australian Aboriginal,,Uncertain Diagnosis,,N,1161,173,68.5,Never,12mar2007,Hospital HD,,,No,N,N,N,N,N,No
+P7102379,F,N,South-East Asian - Vietnamese,,Other (Specify),BONE MARROW TRANSPLANT NEPHROPATHY,Y,890,155,53.9,Never,02jan2006,Hospital HD,,,No,N,N,N,N,N,No
+P7102918,M,N,Southern and Central Asian - Indian,,Mesangial Proliferative (Iga+),,Y,900,155,56,Former,17nov2006,Hospital HD,,,No,N,Y,N,N,N,No
+P7103063,F,N,Caucasoid,,Bilateral Renal Artery Stenosis,,N,567,178,80,Never,08jul2006,Hospital HD,,,No,N,S,N,N,N,No
+P7105224,M,N,Southern and Central Asian - Indian,,Diabetes Type II (Insulin Requiring),,N,910,160,66,Never,29mar2007,Transplant Overseas,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7105776,M,N,Caucasoid,,Membranous GN,,Y,1495,180,117.3,Never,08mar2007,Hospital HD,13mar2016,,No,Y,N,S,N,N,No
+P7105910,M,Y,Caucasoid,,S.L.E.,,Y,315,155,53,Never,10feb2007,Hospital HD,,,No,N,N,N,N,N,No
+P7105943,F,N,Caucasoid,,Other (Specify),ALAGILLE SYNDROME,N,764,174,108.6,Former,30mar2007,Hospital HD,,,No,,N,N,N,N,No
+P7106540,F,N,Southern and Central Asian - Indian,,Focal and Segmental Proliferative GN,,Y,502,169.5,83.59999999999999,Never,02apr2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7109825,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,560,180,83.5,Never,25jan2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7110905,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,619,169,106.5,Never,18dec2006,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7111197,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1086,160,56.8,Never,16nov2006,Hospital HD,01apr2012,N,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7111288,F,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,Y,373,179,106,Never,08oct2006,Hospital HD,29sep2015,Y,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7112253,M,Y,Caucasoid,,Mesangial Proliferative (Iga-),,Y,,148,68,Never,20nov2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7113314,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,,172,75,Never,31oct2006,APD/IPD Hospital,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7113953,M,N,Caucasoid,,Uncertain Diagnosis,,Y,834,170,82,Never,08nov2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7114326,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1653,175.5,110,Never,27sep2006,Hospital HD,,,No,N,N,N,N,N,No
+P7115496,M,N,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,866,185,88,Never,07oct2006,Hospital HD,,,No,N,N,N,N,N,No
+P7115619,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,847,170,62.2,Never,18sep2006,Hospital HD,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P7115766,F,N,Caucasoid,,Polycystic Kidney Disease,,,959,172,67,Never,04jun2006,Transplant Overseas,,,No,N,N,N,N,N,No
+P7116396,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1160,177,93.5,Never,03oct2006,Hospital HD,,,Yes,N,N,N,N,N,No
+P7116969,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1150,165,73,Current,17jul2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7117047,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,,177,85,Never,19sep2006,Hospital HD,03may2015,Y,No,N,N,N,N,N,No
+P7118261,M,Y,Caucasoid,,Other (Specify),CAMPHOR OIL INGESTION,N,750,180,91,Current,11sep2006,Satellite HD,,,Yes,N,N,N,N,N,No
+P7118971,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,1500,170,90.5,Former,04jul2006,Satellite HD,,,No,N,Y,N,N,N,No
+P7119984,F,N,Southern and Central Asian - Indian,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,790,161,65.2,Former,01may2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7120085,M,Y,Caucasoid,,Polycystic Kidney Disease,,Y,543,164,92.7,Never,14aug2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7120151,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,903,165,65.7,Never,27jul2006,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7120658,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,1222,188,96,Former,09jan2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7120883,F,N,Caucasoid,,Lithium Toxicity,,N,1210,170,81.5,Never,15may2006,CAPD Hospital/Outpatient,,,No,S,N,N,N,N,No
+P7121267,F,N,Caucasoid,,S.L.E.,,Y,382,178,84,Former,01aug2006,Hospital HD,,,No,N,N,N,N,N,No
+P7121300,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,311,155,67,Former,23jun2006,Hospital HD,12jun2015,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7121558,M,N,Caucasoid,,Polycystic Kidney Disease,,N,437,165,93.7,Never,25jul2006,Hospital HD,,,No,N,N,N,N,N,No
+P7122628,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,,183,127,Former,12jan2006,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7123393,M,N,Caucasoid,,Ureteric Obstructive Nephropathy,,N,456,167,57,Never,11jul2006,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7124777,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,524,193,82.59999999999999,Current,18jul2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7124788,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,889,176,74,Former,07jul2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7125475,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,929,165,62.7,Current,22jun2006,Transplant in AUST/NZ,,,Yes,N,Y,N,N,O,Type 1 - Insulin Dependent
+P7125822,M,N,North - East Asian - Chinese,,Goodpastures with Linear IgG and Lung Haemorrhage,,Y,760,144,50.2,Former,19jun2006,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7126599,M,N,North - East Asian - Chinese,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,804,174,72.8,Former,17may2006,CAPD Hospital/Outpatient,,,Yes,N,S,N,N,N,No
+P7126700,F,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,645,158,52,Never,20jun2006,APD/IPD Hospital,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7128139,F,N,Southern and Central Asian - Indian,,Diabetes Type II (Non-Insulin Requiring),,N,1306,173,96,Never,10apr2006,Hospital HD,17oct2010,N,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7128342,M,N,Caucasoid,,Reflux Nephropathy,,N,717,180,82.2,Never,01may2006,Hospital HD,,,No,N,N,N,N,N,No
+P7128545,M,N,Caucasoid,,Wegeners Granulomatosis,,Y,549,174,84,Never,14dec2005,Hospital HD,,,No,N,Y,N,N,N,No
+P7128837,M,N,Caucasoid,,Analgesic Nephropathy,,N,880,163,71,Never,17apr2006,Hospital HD,20may2016,Y,No,N,N,S,N,N,No
+P7129039,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,720,164,67,Former,24apr2006,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7130480,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,,165,66,Current,08mar2006,Satellite HD,,,No,N,N,N,N,N,No
+P7131065,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,,186,98,Former,27feb2006,CAPD Hospital/Outpatient,,,No,N,N,Y,N,N,No
+P7131120,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,510,160,60,Never,21feb2006,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7133507,F,N,North - East Asian - Chinese,,Mesangiocapillary GN (Double Contour),,Y,1486,181,75,Never,02jun2005,Satellite HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7133551,F,N,North - East Asian (Specify),KOREAN,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,SINGLE KIDNEY,Y,650,167,63,Never,04nov2005,Hospital HD,,,No,N,N,N,N,N,No
+P7133608,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1135,162,112,Never,01dec2005,Satellite HD,,,No,N,N,N,N,N,No
+P7133832,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,302,173,70,Never,03feb2005,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P7133889,M,N,Oceanian - Polynesian (Specify),COOK ISLANDER,Reflux Nephropathy,,N,1343,179,95.40000000000001,Never,03dec2005,Hospital HD,,,No,Y,N,N,N,N,No
+P7134114,M,N,Caucasoid,,Obstructive Nephropathy,,N,6031,170,67,Never,01dec2005,Hospital HD,,,No,N,N,Y,N,N,No
+P7134248,F,N,Caucasoid,,Reflux Nephropathy,,N,1410,170,66.09999999999999,Former,22aug2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7134373,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,1023,176,81.59999999999999,Current,29nov2005,Hospital HD,,,No,N,N,N,N,N,No
+P7134654,M,N,Oceanian - New Zealand Maori,,Uncertain Diagnosis,BIOPSY UNHELPFUL,Y,274,181,68,Never,21oct2005,Hospital HD,,,No,N,N,N,N,N,No
+P7135260,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,780,180,100,Never,13jan2005,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7135610,F,Y,Caucasoid,,Renal Vascular Disease (Malignant Hypertension) No prd,,Y,1039,178,70.5,Former,30mar2005,Hospital HD,,,Yes,N,N,N,N,N,No
+P7136543,M,N,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,1142,168,60,Former,31aug2005,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7137635,M,N,Caucasoid,,Reflux Nephropathy,,N,630,155,49.6,Never,25jul2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7138535,M,N,Caucasoid,,GN With Systemic Disease (Specify),BACTERIAL ENDOCARDITIS,N,1480,166,91,Former,30sep2005,Hospital HD,09aug2013,Y,No,N,N,N,N,N,No
+P7139817,M,,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1200,181,84,Never,26oct2005,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7140290,F,N,Caucasoid,,Secondary Focal Sclerosing GN,COLLAPSING FSGS-DUE TO TACROLIMUS,Y,838,168,54,Never,25aug2005,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7140773,M,N,Caucasoid,,Reflux Nephropathy,,Y,560,174,89.09999999999999,Never,20oct2005,Hospital HD,22mar2011,Y,No,N,N,N,N,N,No
+P7140941,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Insulin Requiring),,N,784,177,91,Former,22oct2005,Hospital HD,10oct2012,Y,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7142145,F,N,South East Asian - Malay,,Polycystic Kidney Disease,,N,,155,55,Never,13sep2005,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7145691,M,Y,Other (Specify),OTHER EUROPEAN,Polycystic Kidney Disease,,Y,577,196,98,Never,11may2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7154095,F,N,,,Renal Vascular Disease-Type Unspecified,,N,992,180,92,Never,21mar2016,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7170295,M,N,,,,,,,,,Former,01mar2016,Transplant in AUST/NZ,,,No,N,N,N,N,,
+P7178496,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,498,176,93.59999999999999,,16feb2016,Transplant in AUST/NZ,,,No,N,,N,N,N,No
+P7192096,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1850,184,91.7,Never,19jan2016,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7198103,M,N,Caucasoid,,Other (Specify),PRUNE BELLY SYNDROME,N,,118.2,23.9,Former,28oct2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7203370,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Insulin Requiring),,Y,958,169.5,99.59999999999999,Never,10dec2015,HD Satellite - Conventional,,,No,N,N,Y,N,Q,Type 2 - Insulin Requiring
+P7206102,M,Y,Caucasoid,,Obstructive Nephropathy,,N,667,173,83,Never,03nov2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7219580,M,N,Oceanian - Australian,,Renal Vascular Disease (Malignant Hypertension) No prd,,N,626,160,62,Never,15nov2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7242285,M,N,Other (Specify),PAKISTAN,Membranous GN,,Y,630,185,79.40000000000001,Never,02feb2015,Transplant Overseas,,,No,N,N,N,N,N,No
+P7245096,F,N,Oceanian - New Zealand Maori,,Diabetes Type II (Non-Insulin Requiring),PRESUMED,N,676,187,150,Never,05may2015,HD Hospital - Conventional,,,No,N,Y,N,N,P,Type 2 - Non-Insulin Requiring
+P7252286,M,N,Caucasoid,,Polycystic Kidney Disease,,,844,155,67,Never,26sep2015,Transplant in AUST/NZ,,,No,,N,N,N,N,No
+P7254288,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,756,189,96,Former,14aug2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7271903,F,,Caucasoid,,Mesangial Proliferative (Iga-),,Y,840,175.3,80.3,Never,10aug2015,CAPD,,,No,N,N,N,Y,N,No
+P7280656,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,1310,159,52.5,Never,10aug2015,APD/IPD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7295101,F,N,Caucasoid,,Reflux Nephropathy,,N,830,159,58.4,Former,30jul2015,Transplant in AUST/NZ,,,Yes,N,N,N,N,N,No
+P7303303,F,N,Caucasoid,,Polycystic Kidney Disease,,N,613,172,84.5,Never,29jun2015,CAPD,11feb2016,Y,No,N,N,N,N,N,No
+P7304496,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,1180,155,62,Current,27jul2015,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7314497,F,N,Caucasoid,,Polycystic Kidney Disease,,N,880,177,82,Former,12jan2015,APD/IPD,,,No,N,N,N,N,N,No
+P7316656,M,N,Oceanian - Polynesian (Specify),SAMOAN,Congenital Renal Hypoplasia and Dysplasia,,N,793,122.9,29.7,Former,25feb2015,APD/IPD,,,No,N,Y,N,N,N,No
+P7316679,M,N,Oceanian - Australian Aboriginal,,Obstructive Nephropathy,,N,1000,103.5,20.3,Never,04may2015,APD/IPD,,,No,N,N,N,N,N,No
+P7316903,F,N,Oceanian - New Zealand Maori,,Focal and Segmental Proliferative GN,,Y,470,176,93,Never,06jul2015,HD Satellite - Conventional,,,No,N,N,S,N,Q,Type 2 - Insulin Requiring
+P7323102,F,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,1295,163,59.6,Never,25may2015,CAPD,,,No,N,N,Y,N,N,No
+P7324700,M,N,Oceanian - Polynesian (Specify),COOK ISLANDER,Renal Vascular Disease-Hypertension (Nephrosclerosis),ANALGESIC NEPHROPATHY,N,645,180,112,Never,15jun2015,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7336277,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1040,179,94,Never,26feb2015,CAPD,,,Yes,S,N,N,N,N,No
+P7346683,M,Y,Oceanian - Australian Aboriginal,,Polycystic Kidney Disease,,N,763,,,Former,15oct2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7354480,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,602,187,95,Never,10jul2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7354491,M,N,Oceanian - Australian,,Posterior Urethral Valves,,N,1170,135,46,Never,23apr2015,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7356493,F,Y,Caucasoid,,Calcineurin Inhibitor Toxicity,,N,514,156,45,Never,27apr2015,Transplant in AUST/NZ,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7360891,M,N,,,,,,590,,,Never,04mar2015,Transplant in AUST/NZ,,,No,N,N,Y,N,N,No
+P7395699,F,N,Caucasoid,,Presumed GN (No Biopsy),?160,N,766,180,85,Former,16jan2015,CAPD,,,No,N,N,N,N,N,No
+P7398083,F,N,Caucasoid,,Presumed GN (No Biopsy),?190. UNKNOWN,N,1002,171,77,Former,29dec2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7400772,F,N,Caucasoid,,Polycystic Kidney Disease,,N,464,170,81.3,Current,03dec2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7401098,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,,169,80,Never,11jul2014,HD Hospital - Conventional,,,No,N,Y,N,N,N,No
+P7412766,M,N,North - East Asian - Chinese,,Congenital Renal Hypoplasia and Dysplasia,HYPODYSPLASTIC KIDNEYS,N,571,158.8,42.8,Former,23oct2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7415701,F,N,Sub-Saharan African (Specify),SOMALIAN,Focal and Segmental Proliferative GN,FSGS,Y,761,163,78.09999999999999,Never,03nov2014,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7423081,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,955,,78,Former,14nov2014,APD/IPD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7432577,F,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,1040,167,55,Never,05nov2014,APD/IPD,,,No,N,N,N,N,N,No
+P7433365,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,660,178,77,Former,08nov2014,APD/IPD Hospital,,,No,N,S,N,N,N,No
+P7433892,M,N,Caucasoid,,Reflux Nephropathy,,N,660,148,51.5,Former,17nov2014,CAPD,,,No,N,N,N,Y,N,No
+P7440878,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,520,176.5,97,Former,07nov2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7444907,M,N,Caucasoid,,Presumed GN (No Biopsy),?111,N,346,168,94,Never,24feb2014,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7455313,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,900,174,86,Never,07aug2014,CAPD,,,No,N,N,N,N,N,No
+P7468509,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,630,183,101.2,Never,25aug2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7473302,F,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,523,171.4,54.6,Never,17jul2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7473313,M,Y,North - East Asian - Chinese,,Interstitial Nephritis,,N,565,167,58.7,Never,09jul2014,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P7483111,F,,Caucasoid,,Other (Specify),DENYS DRASH SYNDROME - WT1 MUTATION,Y,556,112,18.5,Current,17may2014,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7484293,M,N,Caucasoid,,Polycystic Kidney Disease,,N,409,165,67,Never,19aug2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7494699,M,N,Caucasoid,,Other (Specify),RENAL COLOBOMA SYNDROME,N,586,130.4,34.9,Never,20mar2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7506893,F,N,Caucasoid,,Presumed GN (No Biopsy),?151,N,,193,80,Never,03jun2014,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P7509695,M,N,Caucasoid,,Presumed GN (No Biopsy),?122,N,550,159,58.2,Former,09may2014,CAPD Hospital/Outpatient,,,No,N,N,N,Y,N,No
+P7510110,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,454,180,72.40000000000001,Never,11jul2014,HD Hospital - Conventional,,,No,N,Y,N,N,N,No
+P7518109,M,N,South East Asian - Malay,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,518,152,54,Current,26jun2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7524713,F,N,North African and Middle Eastern - Arab (Specify),LEBANESE,Medullary Cystic Disease,NEPHRONOPTHESIS,Y,880,118.5,21.5,Current,08jan2014,APD/IPD Hospital,,,Yes,N,S,N,N,N,No
+P7526446,M,Y,North - East Asian (Specify),KOREAN,Mesangial Proliferative (Iga+),,Y,725,165,82.90000000000001,Current,28may2014,HD Hospital - Conventional,,,No,N,N,Y,N,N,No
+P7528291,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,300,,65,Current,27feb2014,HD Hospital - Conventional,,,No,N,N,N,Y,N,No
+P7528707,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,765,169,66.5,Never,27mar2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7537505,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,764,168,80.09999999999999,Never,18may2014,HD Satellite - Conventional,,,No,N,N,N,N,N,No
+P7539507,M,N,Caucasoid,,Interstitial Nephritis,,N,681,188,82,Never,28apr2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7539979,M,N,Caucasoid,,Polycystic Kidney Disease,,N,755,,94,Never,09apr2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7539990,M,N,Caucasoid,,Lithium Toxicity,,N,810,180,84.90000000000001,Never,10sep2013,CAPD,,,No,N,N,N,N,N,No
+P7547033,M,N,Caucasoid,,Reflux Nephropathy,,N,770,168,71,Never,09sep2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7550993,F,,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,441,178,66.5,Former,21oct2013,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P7551229,F,N,Oceanian - New Zealand Maori,,Diabetes Type II (Insulin Requiring),,N,676,173,101,Current,19sep2013,HD Hospital - Conventional,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7559634,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1700,176,73,Never,07apr2014,HD Home - Conventional,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7562007,M,N,Caucasoid,,Presumed GN (No Biopsy),190. VASCULITIS,N,617,170,48.1,Never,31mar2014,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7570241,F,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,790,176,67,Never,07jan2014,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7572628,F,N,Other (Specify),EURASIAN,Reflux Nephropathy,,N,554,183,76.40000000000001,Never,24feb2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7572830,M,N,Caucasoid,,Reflux Nephropathy,,N,558,160,94.40000000000001,Never,20feb2014,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7579208,M,Y,Caucasoid,,Reflux Nephropathy,SINGLE KIDNEY,N,586,173,80,Former,11feb2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7593215,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,358,163,86.2,Never,16dec2013,Transplant in AUST/NZ,,,Yes,N,N,N,N,N,No
+P7595634,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,480,176,95,Former,18jan2014,HD Hospital - Conventional,,,No,N,N,,N,N,No
+P7603577,F,N,Caucasoid,,S.L.E.,,Y,,170,61.2,Current,12sep2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7603835,M,Y,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,405,183,114.2,Never,10dec2013,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7604836,M,N,Caucasoid,,S.L.E.,,Y,1232,167,77,Never,17dec2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7605421,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,409,159,57.8,Never,26jun2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7605612,M,N,Caucasoid,,Wegeners Granulomatosis,ANCA VASCULITIS,Y,1200,159,67,Never,28aug2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7605815,F,,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,604,178,72,Former,11sep2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7621429,F,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,555,172,105,Never,17may2013,Transplant in AUST/NZ,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7624625,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,754,188,86.40000000000001,Never,26nov2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7641026,M,,Caucasoid,,Presumed GN (No Biopsy),,N,1426,182,79.2,Never,30sep2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7644121,M,N,Caucasoid,,Goodpastures with Linear IgG and Lung Haemorrhage,,Y,710,175,70,Current,28may2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7644909,M,N,Caucasoid,,Membranous GN,,Y,1534,158,54,Never,08apr2013,APD/IPD Hospital,,,No,N,N,Y,N,N,No
+P7648126,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1340,170,65.5,Former,09may2013,Transplant in AUST/NZ,,,No,N,Y,N,Y,N,No
+P7650511,M,N,Caucasoid,,Mesangial Proliferative (Iga+),IGA,Y,1200,165,65,Never,28may2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7658037,F,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,1086,156.9,49.2,Unknown,18oct2013,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7660625,F,N,Caucasoid,,Reflux Nephropathy,,N,810,164,74,Never,05oct2013,HD Hospital - Conventional,,,No,N,Y,N,N,N,No
+P7661424,F,N,Caucasoid,,Reflux Nephropathy,,N,630,173,92,Never,29jul2013,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P7663427,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,3270,165,63.2,Never,02aug2013,HD Hospital - Conventional,,,No,N,N,N,,N,No
+P7665642,M,N,Caucasoid,,Ureteric Obstructive Nephropathy,,,390,177,71.40000000000001,Never,03oct2011,APD/IPD,,,No,N,N,N,N,N,No
+P7668240,M,N,Caucasoid,,Polycystic Kidney Disease,,N,590,178,87,Former,08oct2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7670828,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,581,170,78.2,Never,31jul2013,HD Satellite - Conventional,,,Yes,N,N,N,N,N,No
+P7670839,M,Y,Caucasoid,,Other (Specify),MULTIFACTORAL,Y,436,185,96.3,Never,20sep2013,HD Satellite - Conventional,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7697491,M,N,Caucasoid,,Uncertain Diagnosis,,N,800,169,60.1,Never,08jul2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7715333,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,583,160,77.3,Never,22apr2013,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P7719316,M,N,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,596,170,85.5,Former,01jan2013,HD Hospital - Conventional,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7723658,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,678,162.2,81.59999999999999,Current,24jun2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7731116,F,N,Caucasoid,,Renal Vascular Disease (Malignant Hypertension) No prd,,N,512,180,82.3,Never,20jun2013,CAPD,,,Yes,N,N,N,N,N,No
+P7731724,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,800,165,52.6,Never,26jun2013,CAPD Hospital/Outpatient,,,No,N,S,N,N,O,Type 1 - Insulin Dependent
+P7731904,M,Y,Caucasoid,,Uncertain Diagnosis,,N,990,170,67.5,Never,24jun2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7737731,F,Y,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,660,173,95.5,Former,25jun2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7740499,M,N,Caucasoid,,Renal Vascular Disease-Type Unspecified,,N,548,180,106.8,Never,21jun2013,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7749725,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,580,169,59,Never,01dec2012,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7752131,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,790,176,68.2,Former,14nov2012,HD Hospital - Conventional,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7759523,F,N,South-East Asian - Filipino,,Presumed GN (No Biopsy),? 130,N,950,162.5,47.5,Never,30apr2013,Transplant in AUST/NZ,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7759703,F,,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1280,164.5,70,Never,13may2013,CAPD Hospital/Outpatient,,,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P7759726,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,608,176.5,89.5,Former,25feb2013,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P7761324,F,N,Caucasoid,,Polycystic Kidney Disease,,N,750,165,73,Never,13may2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7768096,M,,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,684,165.5,42,Current,06mar2013,HD Hospital - Conventional,,,Yes,S,N,N,N,Q,Type 2 - Insulin Requiring
+P7768512,F,N,North - East Asian - Chinese,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,810,179,72,Former,08may2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7770323,M,N,Southern and Central Asian (Specify),SRI LANKAN,Diabetes Type II (Non-Insulin Requiring),,N,771,169,94.59999999999999,Former,13may2013,HD Hospital - Conventional,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7778637,F,N,South East Asian - Malay,,Uncertain Diagnosis,,N,430,169,80,Never,19apr2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7790133,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,N,519,172,91,Never,10jan2013,HD Hospital - Conventional,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7801530,M,N,Southern and Central Asian - Indian,,Polycystic Kidney Disease,,N,899,,,Never,18mar2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7804524,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,784,151,75.09999999999999,Never,04mar2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7810530,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1005,164,78.09999999999999,Never,21feb2013,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7811476,F,N,Caucasoid,,Polycystic Kidney Disease,,N,679,162,61,Never,12feb2013,HD Home - Conventional,,,No,N,S,N,N,N,No
+P7812522,F,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,518,172,91,Never,21jan2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7816931,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,429,167,96,Never,11feb2013,APD/IPD Hospital,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7817741,F,N,Caucasoid,,Uncertain Diagnosis,CONFIRMED,N,791,165,83,Never,05nov2010,Hospital HD,11nov2015,Y,Yes,N,N,N,N,N,No
+P7823727,F,N,Southern and Central Asian - Indian,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,600,157,58,Never,24dec2012,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P7832345,M,N,Caucasoid,,Other (Specify),CHROMOSOME 4 DISORDER,N,921,147,32.4,Never,17dec2012,HD Hospital - Conventional,,,No,N,Y,N,N,N,No
+P7833142,M,N,Oceanian - New Zealand European,,Polycystic Kidney Disease,,N,579,154.5,73,Current,03dec2012,Transplant in AUST/NZ,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7841715,F,N,Caucasoid,,Mesangial Proliferative (No If Studies),,Y,413,176,88,Never,05apr2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7842685,F,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,,173,59.7,Never,19sep2011,Transplant in AUST/NZ,,,Yes,S,N,N,N,N,No
+P7842988,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,628,157,59,Former,30aug2011,HD Hospital - Conventional,,,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P7844551,M,N,Oceanian - New Zealand European,,Mesangial Proliferative (Iga+),,Y,1260,175,81,Never,11jul2011,CAPD Hospital/Outpatient,,,Yes,N,Y,N,N,N,No
+P7845486,F,N,Caucasoid,,Polycystic Kidney Disease,,N,701,158,50,Former,02dec2011,HD Hospital - Conventional,,,Yes,N,N,Y,N,N,No
+P7845552,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,468,163.5,59.3,Never,22nov2011,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P7845721,F,Y,Caucasoid,,Membranous GN,,Y,1163,178,82.90000000000001,Former,16nov2011,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7846227,M,N,Caucasoid,,Uncertain Diagnosis,,N,932,179,87.90000000000001,Current,07nov2011,APD/IPD,,,No,N,N,N,N,N,No
+P7846285,F,N,Oceanian - New Zealand European,,Polycystic Kidney Disease,,N,619,186,86.2,Former,22nov2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7847870,F,N,North - East Asian (Specify),KOREAN,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,820,163,72,Former,17jun2011,Transplant in AUST/NZ,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7848377,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,877,168,95,Never,02nov2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7850435,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,715,166,67.09999999999999,Never,11oct2011,HD Hospital - Conventional,19dec2015,Y,No,N,N,N,N,N,No
+P7852337,M,Y,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,510,170,104.1,Never,27nov2012,HD Hospital - Conventional,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7854114,M,N,Caucasoid,,Polycystic Kidney Disease,,N,353,,77,Never,19nov2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7856105,F,N,Southern and Central Asian - Indian,,Focal and Segmental Proliferative GN,,Y,576,170,85,Never,16jul2012,CAPD Hospital/Outpatient,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7864137,M,N,Caucasoid,,Amyloid Disease,,Y,740,180,86,Former,19sep2012,APD/IPD,,,No,N,N,N,N,N,No
+P7877951,M,N,Caucasoid,,Microscopic Polyarteritis,,Y,707,176,95.5,Never,09oct2012,Transplant in AUST/NZ,,,Yes,N,N,N,N,N,No
+P7878537,F,N,Oceanian - New Zealand Maori,,Diabetes Type II (Non-Insulin Requiring),,N,1592,183,152.1,Current,24oct2012,HD Hospital - Conventional,,,Yes,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7882734,F,N,Southern and Central Asian - Indian,,Polycystic Kidney Disease,,N,480,155,64,Never,12oct2012,APD/IPD,,,No,N,N,S,N,N,No
+P7884354,M,N,Oceanian - Australian Aboriginal,,Focal Sclerosing GN (Including Hyalinosis),,Y,780,182,92,Former,15oct2012,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7886356,M,N,Oceanian - Melanesian And Papuan (Specify),PAPUA NEW GUINEAN,Uncertain Diagnosis, ? NSAID ? REFLUX,N,827,166,68,Never,12oct2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7898944,M,N,Caucasoid,,Microscopic Polyarteritis,,Y,1013,169,58.9,Former,17aug2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7899157,M,N,Caucasoid,,GN Other (Specify),FIBRILLARY GN,Y,750,167,64,Current,30aug2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7899933,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,570,163,95,Former,29sep2012,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7902353,M,Y,Oceanian - Australian,,,,N,1061,178,94,Never,14feb2012,HD Home - Conventional,,,No,N,N,N,N,N,No
+P7904604,M,N,Oceanian - Polynesian (Specify),SAMOAN,Diabetes Type II (Insulin Requiring),,N,471,160,87,Former,02aug2012,HD Hospital - Conventional,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7905616,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,930,172,112,Never,20aug2012,APD/IPD Hospital,,,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P7906493,F,N,Southern and Central Asian - Indian,,Diabetes Type II (Non-Insulin Requiring),,N,760,173,61.1,Never,11sep2012,HD Hospital - Conventional,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7907506,F,Y,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,432,179,78.5,Never,15aug2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7909563,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,665,170,74.2,Never,05may2012,HD Hospital - Conventional,,,Yes,Y,N,N,N,O,Type 1 - Insulin Dependent
+P7910621,F,N,Caucasoid,,Uncertain Diagnosis,CONFIRMED,N,432,168,66.5,Never,23may2012,HD Hospital - Conventional,,,Yes,N,N,N,N,N,No
+P7913300,F,N,,,Polycystic Kidney Disease,,N,1579,151,42,Former,01mar2012,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7913962,M,,,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,732,156,53.4,Never,31jul2012,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7915718,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,410,168,62,Never,09jul2012,Transplant in AUST/NZ,,,No,Y,N,N,N,N,No
+P7922592,M,N,Southern and Central Asian - Indian,,Diabetes Type II (Insulin Requiring),,Y,410,169,74.2,Former,30mar2012,CAPD,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7927744,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,,181,78,Current,10may2012,HD Hospital - Conventional,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7927935,M,Y,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,630,180,103,Never,07may2012,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7928498,M,N,Caucasoid,,Not Specified,,N,,159.3,37.7,Never,09mar2012,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7928902,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,990,189,95,Former,30apr2012,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7929567,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,391,177.5,117,Never,26apr2012,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7929633,F,N,Caucasoid,,Polycystic Kidney Disease,,N,413,170,65,Never,18apr2012,HD Hospital - Conventional,,,Yes,N,N,N,N,N,No
+P7930353,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,571,167,70,Never,11apr2012,HD Hospital - Conventional,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P7932526,M,N,Oceanian - Polynesian (Specify),TONGAN,Familial GN (Including Alports),ALPORTS,Y,,179,83,Never,20dec2011,HD Hospital - Conventional,,,Yes,N,N,N,N,N,No
+P7933009,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,,178,71.5,Former,15nov2011,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P7933234,F,N,Caucasoid,,Posterior Urethral Valves,TRABECULATED URINARY BLADDER,N,825,186,77,Former,30nov2011,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7935900,M,N,Southern and Central Asian - Indian,,Diabetes Type II (Insulin Requiring),,N,1050,170,90,Never,14feb2012,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7940433,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,618,164,79,Never,01jun2011,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7940479,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),RENOVASCULAR DISEASE,N,1640,181,88.59999999999999,Current,14apr2011,HD Hospital - Conventional,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7941368,M,N,Caucasoid,,Other (Specify),HEPATO-RENAL SYNDROME,Y,1050,161,47,Former,27dec2011,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7942221,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,940,155,42,Current,29dec2011,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7942270,M,N,Caucasoid,,Posterior Urethral Valves,,N,1200,154.5,74.8,Never,12dec2008,Transplant in AUST/NZ,,,No,N,N,S,N,N,No
+P7942574,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1200,172,81.8,Never,09jan2009,Hospital HD,,,No,N,N,N,N,N,No
+P7942675,M,N,North - East Asian - Chinese,,Focal and Segmental Proliferative GN,,Y,1004,153,44.9,Former,10nov2008,CAPD Hospital/Outpatient,31mar2016,Y,No,N,N,N,N,N,No
+P7943608,M,N,Caucasoid,,Reflux Nephropathy,,N,,157,42,Never,06apr2009,Transplant in AUST/NZ,,,Yes,Y,N,N,N,N,No
+P7945285,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,794,160,61,Unknown,27mar2009,Hospital HD,12dec2013,Y,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P7945621,M,N,Caucasoid,,Lithium Toxicity,,N,1062,151,75,Never,23feb2009,Satellite HD,07dec2016,,No,Y,N,N,N,N,No
+P7946387,M,N,Caucasoid,,Polycystic Kidney Disease,,N,928,186,82,Never,27mar2009,Transplant in AUST/NZ,,,Yes,N,N,N,N,N,No
+P7946926,F,N,Caucasoid,,Reflux Nephropathy,,N,2026,73.3,8.4,Current,23feb2009,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7948805,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,890,172,63,Never,23jan2009,Hospital HD,,,No,N,N,N,N,N,No
+P7951088,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,264,172,71.8,Never,18jan2009,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7951121,F,N,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,528,161,101.1,Never,13jan2009,Hospital HD,,,Yes,N,N,N,N,N,No
+P7952406,M,N,Caucasoid,,Membranous GN,,Y,553,155,49,Former,20jul2011,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7953609,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,630,183,105.3,Current,19sep2011,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7956815,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,390,188,94.09999999999999,Never,19sep2011,CAPD Hospital/Outpatient,,,Yes,N,S,N,N,Q,Type 2 - Insulin Requiring
+P7957872,F,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,825,160,59,Never,23aug2011,APD/IPD Hospital,,,No,N,Y,N,N,N,No
+P7958064,M,N,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,656,159,62.9,Never,01sep2011,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P7958525,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,480,173,64.09999999999999,Former,29aug2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7958986,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,1040,180,74,Current,08aug2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7959120,F,N,Oceanian - Polynesian (Specify),SAMOAN,Diabetes Type II (Insulin Requiring),,N,1043,183,95.5,Never,01jul2011,HD Hospital - Conventional,,,No,N,Y,N,N,Q,Type 2 - Insulin Requiring
+P7959357,M,N,Caucasoid,,Uncertain Diagnosis,,N,568,172,75,Former,27jan2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7961304,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,650,174,80,Never,18jul2011,CAPD Hospital/Outpatient,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7961449,M,N,Sub-Saharan African (Specify),SUDANESE,S.L.E.,,Y,880,165,56.6,Never,16mar2011,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7962373,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,1061,185,99.5,Never,20apr2011,Transplant in AUST/NZ,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7965366,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,1174,164,76,Never,20jun2011,CAPD Hospital/Outpatient,,,No,N,S,N,N,Q,Type 2 - Insulin Requiring
+P7965590,M,N,Caucasoid,,Reflux Nephropathy,,N,631,158,97.3,Never,22jun2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7967604,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,,88.3,13.8,Never,10jan2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P7967874,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,830,153,62.7,Former,05jun2011,HD Satellite - Conventional,,,No,Y,N,N,N,N,No
+P7969347,F,N,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Presumed GN (No Biopsy),BILATERAL SMALL KIDNEYS,N,873,176,91,Former,04apr2011,HD Home - Conventional,,,No,N,N,N,N,N,No
+P7970021,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,855,182,114.5,Never,20may2011,HD Hospital - Conventional,,,No,N,N,Y,N,N,No
+P7970315,M,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,990,160,63.5,Former,13apr2011,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P7971608,F,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Insulin Requiring),RENAL CALCULI,Y,875,155,69.5,Never,18mar2011,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7972158,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,,180,107.7,Never,28apr2011,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7972362,M,Y,Caucasoid,,Polycystic Kidney Disease,(R) NEPHRECTOMY,N,989,176,82,Never,12may2010,Hospital HD,,,Yes,N,N,N,N,N,No
+P7972577,M,N,Caucasoid,,Polycystic Kidney Disease,,N,566,168,79,Former,08nov2010,Hospital HD,,,No,N,N,N,N,N,No
+P7973679,M,N,Caucasoid,,Reflux Nephropathy,,N,825,171,66,Former,21mar2011,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7974276,M,N,Caucasoid,,Other (Specify),BILATERAL WILMS TUMOUR,Y,430,81,10,Never,05feb2011,HD Hospital - Quotidian,,,No,N,N,N,N,N,No
+P7975164,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,1090,78,10.4,Former,04mar2011,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P7975771,M,Y,Caucasoid,,Renal Vascular Disease (Malignant Hypertension) No prd,,Y,416,183,130,Never,08may2010,Hospital HD,,,No,N,N,N,N,N,No
+P7976368,F,N,Oceanian - New Zealand European,,Polycystic Kidney Disease,,N,,168,67,Never,22feb2011,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7977076,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),RENOVASCULAR DISEASE,N,480,171.5,91.5,Never,08feb2011,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7977098,F,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,RENOVASCULAR DISEASE,Y,1030,177,88.3,Former,10feb2011,HD Hospital - Conventional,,,Yes,N,N,N,N,N,No
+P7977279,F,N,Caucasoid,,Uncertain Diagnosis,,N,640,180,72,Never,17jan2011,HD Hospital - Conventional,,,Yes,N,N,N,N,N,No
+P7977458,M,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,150,159,55.5,Never,10jan2011,CAPD Hospital/Outpatient,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7978740,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,977,167,81.90000000000001,Current,07dec2010,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7979484,M,Y,Caucasoid,,Focal and Segmental Proliferative GN,,Y,448,167,87.8,Never,01jun2010,Hospital HD,,,No,N,N,N,N,N,No
+P7979853,F,Y,South-East Asian - Filipino,,Interstitial Nephritis,,Y,644,148,44.4,Former,27apr2010,Hospital HD,,,No,N,N,N,N,N,No
+P7979899,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,930,180,67,Former,08dec2010,Hospital HD,,,No,N,N,Y,N,O,Type 1 - Insulin Dependent
+P7980518,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,942,165,84.3,Former,06dec2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7985446,M,N,Caucasoid,,Polycystic Kidney Disease,,N,735,185,105,Former,28oct2010,Hospital HD,,,No,N,N,N,N,N,No
+P7986232,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,640,182,70,Never,08oct2010,Hospital HD,,,No,N,N,N,N,N,No
+P7987313,F,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,851,180,91.8,Never,28sep2010,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P7987595,M,N,Oceanian - Polynesian (Specify),SAMOAN,Mesangial Proliferative (Iga+),,Y,603,173.5,60.5,Former,01sep2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7987898,M,N,Caucasoid,,Membranous GN,,Y,706,177,90,Former,13sep2010,CAPD Hospital/Outpatient,,,No,N,S,N,N,N,No
+P7991081,M,N,Caucasoid,,Uncertain Diagnosis,,N,459,175,65.2,Never,14aug2010,Hospital HD,,,No,N,N,N,N,N,No
+P7991329,F,N,Caucasoid,,Uncertain Diagnosis,,N,,168.5,52.5,Never,11aug2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7992195,M,N,South-East Asian (Specify),BURMESE,Mesangial Proliferative (Iga+),,Y,1027,177.8,70,Never,05aug2010,Hospital HD,,,No,N,N,N,N,N,No
+P7993321,M,N,Caucasoid,,Polycystic Kidney Disease,,N,903,168,75,Never,31may2010,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P7994289,M,Y,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,999,182,113,Former,15jul2010,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7994558,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,1050,66,7.7,Former,28jul2010,APD/IPD Hospital,,,No,N,Y,N,N,N,No
+P7994975,M,Y,South-East Asian - Filipino,,Renal Vascular Disease (Malignant Hypertension) No prd,,N,470,182,68,Never,06may2010,Hospital HD,,,No,N,N,N,N,N,No
+P7995243,M,N,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,1187,177,99,Former,12jul2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P7995851,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,690,171,94,Never,28jun2010,Hospital HD,,,No,N,N,,N,N,No
+P7995862,F,N,North - East Asian - Chinese,,Focal Sclerosing GN (Including Hyalinosis),,Y,635,165,71,Former,18jun2010,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P7996808,F,N,Southern and Central Asian - Indian,,Reflux Nephropathy,,N,1529,157,47,,24may2010,Hospital HD,,,No,N,N,N,N,N,No
+P7997662,M,N,Oceanian - New Zealand Maori,,Diabetes Type II (Insulin Requiring),,N,717,169,85.8,Never,16jun2010,Satellite HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P7997664,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1675,177,91,Never,19may2010,Transplant in AUST/NZ,,,No,N,N,Y,N,N,No
+P8000205,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,334,159,81,Never,23mar2010,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P8001903,M,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,,180,109,Never,30mar2010,Hospital HD,,,No,N,N,Y,N,N,No
+P8002185,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,686,182,67.3,Former,22mar2010,CAPD Hospital/Outpatient,,,No,Y,N,N,N,N,No
+P8002400,M,N,Southern and Central Asian - Indian,,Posterior Urethral Valves,,N,1030,147.3,39.5,Former,07oct2009,Transplant in AUST/NZ,,,No,N,N,N,Y,N,No
+P8002490,M,Y,North African and Middle Eastern - Arab (Specify),ARAB,Reflux Nephropathy,,N,550,113.7,19,Never,12nov2009,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P8002917,M,N,Caucasoid,,Reflux Nephropathy,,Y,398,155,71.7,Never,22dec2009,Hospital HD,,,Yes,N,N,N,N,N,No
+P8002950,M,Y,Caucasoid,,Mesangiocapillary GN (Dense Deposit Disease),,Y,535,163,67,Never,26nov2009,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P8003220,F,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,1585,193,102.2,Former,17dec2009,Hospital HD,,,No,N,S,N,N,P,Type 2 - Non-Insulin Requiring
+P8003231,M,N,Caucasoid,,Uncertain Diagnosis,,N,773,170,75.90000000000001,Never,12dec2009,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P8003412,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,736,192,116,Current,28apr2010,Satellite HD,,,No,N,Y,N,N,N,No
+P8003581,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1160,200,117.4,Current,20apr2010,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P8007068,M,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,1353,174,76,Never,22mar2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P8007112,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,435,169,58.3,Never,24mar2010,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P8007349,M,N,Caucasoid,,Membranous GN,,Y,1205,186,85.2,Current,06mar2010,Hospital HD,,,Yes,N,N,N,N,N,No
+P8007843,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,,181.5,98.09999999999999,Former,10mar2010,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P8008385,M,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,833,173,61,Former,08mar2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P8008440,M,Y,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,,165,78,Never,02mar2010,Hospital HD,,,Yes,N,N,N,N,N,No
+P8008822,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,871,178,89.3,Never,04mar2010,Transplant in AUST/NZ,,,Yes,N,N,N,N,N,No
+P8008923,M,N,Caucasoid,,Renal Vascular Disease-Type Unspecified,,N,1059,181,99.2,Never,15feb2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P8009498,M,N,Caucasoid,,Polycystic Kidney Disease,,N,395,201,97,Never,22feb2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P8009667,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,,178,80.2,Current,27jan2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P8009711,F,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,710,159,51.7,Never,01feb2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P8010172,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1201,163,78,Never,13feb2010,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P8010510,F,N,Oceanian - Polynesian (Specify),COOK ISLANDER,S.L.E.,,Y,576,151,67.7,Former,13jan2010,Hospital HD,31jul2014,Y,No,Y,N,N,N,N,No
+P8011173,F,N,Oceanian - Australian Aboriginal,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,612,175,92.3,Never,06jan2010,Hospital HD,,,No,N,N,Y,N,N,No
+P8012817,M,N,Caucasoid,,Membranous GN,ANCA POSITIVE,Y,574,167,74,Current,18jul2009,Hospital HD,,,No,N,N,N,S,N,No
+P8013458,M,Y,Caucasoid,,Reflux Nephropathy,ATONIC BLADDER,Y,904,163,68,Current,25nov2009,Hospital HD,02feb2015,Y,No,N,N,N,N,N,No
+P8015561,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,854,171,84.3,Former,20nov2009,Hospital HD,,,No,N,N,N,N,N,No
+P8015596,M,N,Oceanian - New Zealand Maori,,Mesangiocapillary GN (Double Contour),POST STREP GN,Y,1130,192,119.1,Never,08nov2009,Hospital HD,,,No,N,N,N,N,N,No
+P8015607,M,N,Caucasoid,,Calculi,(R) RENAL CALCULI-(L) RENAL CELL,Y,662,169,89.8,Never,19nov2009,Hospital HD,,,No,N,N,N,N,N,No
+P8015640,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,650,193,80.3,Never,12nov2009,Hospital HD,,,No,N,N,N,N,N,No
+P8015662,F,N,Caucasoid,,Polycystic Kidney Disease,,N,757,182,78,Former,28sep2009,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P8016123,M,N,Caucasoid,,Renal Vascular Disease (Malignant Hypertension) No prd,,Y,228,180,105.9,Never,19may2009,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P8016282,M,N,Caucasoid,,Lithium Toxicity,,N,755,160,77,Never,28may2009,Hospital HD,,,Yes,N,N,N,N,N,No
+P8017462,F,N,Caucasoid,,Mesangiocapillary GN (Dense Deposit Disease),,Y,410,183,97.2,Former,03nov2009,Satellite HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P8017653,M,N,Caucasoid,,Polycystic Kidney Disease,,N,366,174,89.40000000000001,Never,05nov2009,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P8017800,M,N,Caucasoid,,Reflux Nephropathy,,N,,166,62,Never,01sep2009,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P8017856,M,N,South-East Asian - Filipino,,Advanced GN (Unclassified=End Stage),,Y,728,141,44,Never,07oct2009,Hospital HD,,,No,N,N,N,Y,N,No
+P8018857,F,N,Caucasoid,,S.L.E.,,Y,610,175,119.5,Former,17jun2009,Hospital HD,,,No,N,N,N,N,N,No
+P8019802,F,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,639,161,84,Never,01oct2009,Hospital HD,,,Yes,N,N,N,Y,Q,Type 2 - Insulin Requiring
+P8023404,F,Y,Caucasoid,,Membranous GN,,Y,370,178,78,Former,04sep2009,Hospital HD,,,No,N,N,N,N,N,No
+P8025191,M,Y,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Uncertain Diagnosis,,N,1147,166,76.09999999999999,Never,15jun2004,Hospital HD,,,No,N,N,N,N,N,No
+P8025979,F,Y,Southern and Central Asian - Indian,SRI LANKAN,Presumed GN (No Biopsy),NODULAR GLOMERULOSCLEROSIS,N,660,175,85,Never,26feb2009,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P8026721,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,930,170,64.3,Never,03aug2009,CAPD,,,No,N,N,N,N,N,No
+P8026744,M,N,Caucasoid,,Advanced GN (Unclassified=End Stage),?HEREDITARY NEPHRITIS,Y,1066,174,100,Never,12aug2009,Transplant in AUST/NZ,,,No,N,Y,N,S,N,No
+P8030793,F,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,Y,591,178,104,Never,14jul2009,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P8034214,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1026,172,74.40000000000001,Never,08jun2009,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P8036273,F,N,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,522,165,53.7,Never,10nov2009,Hospital HD,16mar2015,N,No,N,N,N,N,N,No
+P8037724,M,Y,North - East Asian - Chinese,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,402,173,72,Former,06may2009,Hospital HD,,,No,N,N,N,Y,N,No
+P8039162,F,N,North African and Middle Eastern - Arab (Specify),ARAB,Focal and Segmental Proliferative GN,,Y,701,160,57.8,Never,09feb2009,CAPD Hospital/Outpatient,,,No,N,N,N,Y,N,No
+P8041481,M,N,North - East Asian - Chinese,,Presumed GN (No Biopsy),,N,689,147,57,Former,04may2009,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9053905,M,Y,Caucasoid,,Uncertain Diagnosis,,,600,,,Former,21oct1986,Hospital HD,,,No,N,N,N,N,N,No
+P9054096,M,N,Oceanian - New Zealand Maori,,Presumed GN (No Biopsy),,N,500,178,,Never,04sep1986,Hospital HD,,,No,N,N,N,Y,N,No
+P9054456,F,N,Caucasoid,,GN With Systemic Disease (Specify),SERO-LUPUS,Y,1404,,,Never,19aug1986,Hospital HD,,,No,N,N,N,N,N,No
+P9059619,F,N,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Congenital Renal Hypoplasia and Dysplasia,,N,912,159,37,Never,12dec1985,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9060114,F,N,Caucasoid,,Interstitial Nephritis,,Y,,187,,Former,13nov1985,APD/IPD Hospital,21mar2013,N,Yes,N,N,N,N,N,No
+P9060778,F,Y,Caucasoid,,Medullary Cystic Disease,,Y,545,129.5,25.9,Never,06feb1986,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9064086,F,N,Caucasoid,,Reflux Nephropathy,,,930,170,71,Current,08aug1985,Hospital HD,,,No,N,N,N,S,N,No
+P9064525,M,N,Caucasoid,,Reflux Nephropathy,,N,940,168,79,Current,02aug1985,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9068652,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,415,,,Never,18sep1984,Hospital HD,27jan2011,Y,No,N,N,N,N,N,No
+P9071994,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,540,113,21,Never,25jun1984,CAPD Hospital/Outpatient,24jun2009,N,No,N,N,N,N,N,No
+P9072332,M,,Caucasoid,,Reflux Nephropathy,CONGENITAL PUJ HORSESHOE,N,417,126,22.2,Never,10dec1982,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P9077709,M,N,Caucasoid,,Mesangiocapillary GN (Double Contour),POST INFECTIOUS GN,Y,150,182,97.8,Never,14may1983,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9083739,M,N,Caucasoid,,Reflux Nephropathy,,,1157,,,Never,12feb1983,APD/IPD Hospital,,,No,N,Y,N,N,N,No
+P9103021,F,Y,Caucasoid,,Reflux Nephropathy,,,948,170,,Never,14oct1980,Hospital HD,,,No,N,N,N,N,N,No
+P9115734,F,N,Caucasoid,,Medullary Cystic Disease,,,,,31,Never,26apr1980,Hospital HD,,,No,N,N,N,N,N,No
+P9142477,F,N,Caucasoid,,Reflux Nephropathy,,N,480,185,77.5,Never,17jul2013,CAPD,,,No,N,N,N,N,N,No
+P9142757,F,N,Caucasoid,,Amyloid Disease,,Y,635,180,106.3,Never,13dec2014,HD Hospital - Conventional,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9151296,M,N,Caucasoid,,Polycystic Kidney Disease,,N,570,164,66,Never,03nov2014,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9160104,M,N,Caucasoid,,Lithium Toxicity,,N,570,157,64.3,Never,10nov2015,HD Hospital - Conventional,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9233228,M,Y,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,1420,176,83,Former,15jun2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9242137,M,N,South-East Asian - Filipino,,Uncertain Diagnosis,,N,1030,162,62,Former,02oct2014,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9252557,M,Y,South-East Asian - Filipino,,Mesangial Proliferative (Iga+),IGA NEPHROPATHY,Y,499,165,75,Never,11jan2012,Transplant Overseas,,,No,N,N,N,N,N,No
+P9252647,F,N,Caucasoid,,Reflux Nephropathy,,N,600,110,18,Current,28may2013,CAPD Hospital/Outpatient,,,No,N,N,Y,N,N,No
+P9253097,M,N,Caucasoid,,Presumed GN (No Biopsy),? IGA POSITIVE,N,487,182,81.5,Never,27nov2012,HD Satellite - Conventional,26oct2013,Y,No,N,N,N,N,N,No
+P9254052,M,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,687,169,69,Never,14oct2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P9254076,M,N,Caucasoid,,Presumed GN (No Biopsy),?160,N,625,173,93,Former,27oct2014,HD Satellite - Conventional,,,No,N,N,N,N,N,No
+P9254346,F,N,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Uncertain Diagnosis,,N,875,154,55,Current,01sep2014,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P9255132,M,Y,Caucasoid,,Diabetes Type II (Insulin Requiring),,,810,170,92,Never,28oct2013,HD Hospital - Conventional,,,No,Y,Y,N,,Q,Type 2 - Insulin Requiring
+P9255291,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1010,185,66,Former,06nov2013,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9255358,M,Y,Caucasoid,,Medullary Cystic Disease,,N,715,112,20,Never,03nov2013,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9255707,M,N,Caucasoid,,GN Other (Specify),CRESENTRIC GN,Y,583,190,105,Never,29nov2010,Hospital HD,,,No,N,N,N,N,N,No
+P9255808,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,1550,174,69.5,Never,09dec2013,CAPD Hospital/Outpatient,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9256574,M,N,North - East Asian - Chinese,,Other (Specify),UNKNOWN,,883,,,Never,16apr2003,Transplant Overseas,,,Yes,N,N,N,N,N,No
+P9263335,F,N,Caucasoid,,Other (Specify),P-ANCA VASCULITIS,N,973,,,Never,15jun1995,Transplant Overseas,,,No,N,Y,N,N,N,No
+P9264415,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,864,162,71.5,Current,13nov2012,CAPD Hospital/Outpatient,,,No,Y,N,N,N,N,No
+P9264650,F,N,Caucasoid,,Mesangial Proliferative (No If Studies),,Y,1170,,61.5,Former,15aug2008,Home HD,,,Yes,Y,N,N,N,N,No
+P9265484,M,N,North African and Middle Eastern - Arab (Specify),ARAB,Other (Specify),WILMS TUMOR,N,,81,8,Unknown,11dec2012,HD Hospital - Quotidian,,,No,N,N,N,N,N,No
+P9266754,M,N,North African and Middle Eastern - Arab (Specify),ARAB,Polycystic Kidney Disease,,Y,1380,163,90,Never,19mar2012,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P9548195,M,N,Oceanian - New Zealand Maori,,Polycystic Kidney Disease,,N,650,163,75,Never,26jul2006,Satellite HD,,,No,N,N,N,N,N,No
+P9548477,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1734,182,89.5,Never,24feb2006,Hospital HD,,,No,N,S,N,N,O,Type 1 - Insulin Dependent
+P9549320,F,N,Caucasoid,,Reflux Nephropathy,,N,724,181,,Never,01jan2002,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9549938,F,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1700,190,70,Current,30jul2006,Transplant in AUST/NZ,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P9550107,F,N,Caucasoid,,Polycystic Kidney Disease,,N,490,172,120,Never,10dec2005,Hospital HD,,,No,N,N,N,N,N,No
+P9550670,F,N,Sub-Saharan African (Specify),SEYCHELLEQUE,Mesangial Proliferative (No If Studies),,Y,847,176,78.90000000000001,Former,03oct2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9551368,F,N,Oceanian - Polynesian (Specify),SAMOAN,Diabetes Type II (Insulin Requiring),,N,546,173,126,Never,05jul2006,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9642953,M,N,South-East Asian - Vietnamese,,Focal Sclerosing GN (Including Hyalinosis),,Y,621,168,60,Former,29jul2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9642966,F,,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,450,178,67.8,Never,11jul2004,Transplant in AUST/NZ,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9644011,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,577,180,103.5,Former,08may2006,CAPD Hospital/Outpatient,,,No,Y,N,N,N,N,No
+P9644417,M,N,Caucasoid,,Reflux Nephropathy,,N,1291,169,78,Former,04jul2005,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9644540,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,413,168,80,Current,11dec2005,APD/IPD Hospital,,,No,N,N,Y,N,N,No
+P9645012,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,896,174,84.5,Never,19aug2005,Hospital HD,,,No,N,Y,N,N,N,No
+P9645653,M,N,Caucasoid,,Medullary Cystic Disease,,Y,1199,127.7,26.5,Never,19sep2005,APD/IPD Hospital,,,No,N,N,S,N,N,No
+P9645778,F,N,Caucasoid,,Mesangial Proliferative (Iga+),CALCULI,Y,1015,164,76,Never,01aug2006,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9646419,F,Y,Caucasoid,,Reflux Nephropathy,SPINA BIFIDA,N,770,128,41,Never,08oct2007,Satellite HD,,,No,N,Y,N,N,N,No
+P9646824,F,N,Other (Specify),ERITREAN,Diabetes Type II (Insulin Requiring),,Y,,165,55,Former,08jun2003,Transplant Overseas,03dec2005,Y,No,N,N,N,Y,Q,Type 2 - Insulin Requiring
+P9647555,F,N,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),PAUCI-IMMUNE GN,Y,710,178,101.5,Never,24may2005,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9648276,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1501,169,125,Never,18may2005,CAPD Hospital/Outpatient,,,Yes,N,Y,N,N,P,Type 2 - Non-Insulin Requiring
+P9648770,M,N,Caucasoid,,Wegeners Granulomatosis,,Y,892,179,77,Never,15nov2005,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9649230,M,N,Caucasoid,,Other (Specify),CHEMOTHERAPY,N,852,179,91,Never,04aug2007,Hospital HD,,,No,N,N,N,N,N,No
+P9650064,M,N,Southern and Central Asian - Indian,,Focal Sclerosing GN (Including Hyalinosis),,Y,549,167,67.5,Never,07jul2004,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9651268,M,,Caucasoid,,Polycystic Kidney Disease,,N,574,160,86,Never,18oct2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9651796,M,N,Caucasoid,,Membranous GN,,Y,1970,165,73.40000000000001,,29sep2004,Hospital HD,,,No,N,N,Y,N,N,No
+P9652200,M,Y,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,447,165,58,Former,15apr2004,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9702972,M,N,Caucasoid,,Reflux Nephropathy,,N,984,61,7.5,Current,31aug2010,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9706088,M,N,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,,175,81.40000000000001,Never,25mar2011,HD Hospital - Conventional,,,No,N,N,N,N,N,No
+P9706234,M,N,Caucasoid,,Uncertain Diagnosis,,N,521,,,Never,16oct2003,Transplant Overseas,,,No,N,N,N,N,N,No
+P9709114,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,620,166,68,Former,20dec2010,Transplant in AUST/NZ,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P9709272,M,,Caucasoid,,Post Partum Nephropathy,,N,950,171,81,Former,10dec2010,Hospital HD,,,No,N,Y,N,N,N,No
+P9710194,M,N,Caucasoid,,Other (Specify),NEPHROCALCINOSIS,N,610,160,51,Former,04may2010,Hospital HD,,,No,N,S,N,N,N,No
+P9711510,F,N,Caucasoid,,Polycystic Kidney Disease,,N,,152,64.5,Never,22nov2010,Home HD,,,Yes,N,N,N,N,N,No
+P9712128,M,N,Caucasoid,,Other Lower Urinary Tract Abnormalities (with Secondary Reflux),PRUNE BELLY SYNDROME,N,813,158,53,Never,01nov2010,CAPD Hospital/Outpatient,,,Yes,N,S,N,N,N,No
+P9712251,M,N,Caucasoid,,Medullary Cystic Disease,,Y,872,170,50,Never,04aug2010,Hospital HD,,,No,N,N,N,N,N,No
+P9712961,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1146,166,69,Former,18sep2008,Satellite HD,,,No,N,N,N,N,N,No
+P9717608,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,,175,77,Never,07nov2011,HD Hospital - Conventional,,,No,N,S,N,N,N,No
+P9718237,M,N,Southern and Central Asian - Indian,,Diabetes Type II (Insulin Requiring),,N,300,,,Current,01sep2000,Transplant Overseas,29may2015,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9718811,M,N,Caucasoid,,Reflux Nephropathy,,N,1335,150,60,Former,30nov2011,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9718946,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,,172,82,Former,12aug2010,CAPD Hospital/Outpatient,,,No,N,S,Y,N,N,No
+P9719025,F,Y,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,374,163,63.6,Current,28may2010,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9719643,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,700,160,84,Never,13mar2009,Hospital HD,17apr2016,N,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9720510,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1385,182,93.40000000000001,Former,29oct2009,Hospital HD,23nov2016,Y,Yes,N,N,N,N,N,No
+P9721049,M,N,Oceanian - Australian Aboriginal,,Reflux Nephropathy,,N,425,165,78,Never,26mar2007,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9721568,M,N,Caucasoid,,Wegeners Granulomatosis,,N,855,172,88,Never,22dec2008,Satellite HD,02feb2014,Y,No,N,N,N,N,N,No
+P9721725,F,N,Caucasoid,,Reflux Nephropathy,,N,1319,165,67.09999999999999,Former,06oct2005,Hospital HD,,,No,N,N,N,N,N,No
+P9722074,F,N,Caucasoid,,Other (Specify),BONE MARROW TRANSPLANT NEPHROPATHY,N,572,175,66,Never,03jun2008,Hospital HD,,,No,N,N,N,N,N,No
+P9725719,F,Y,Caucasoid,,Primary Focal Sclerosing GN or Focal Glomerular Sclerosis,,Y,1550,155,46,Current,23dec2009,Hospital HD,,,No,N,N,N,N,N,No
+P9727732,M,N,Caucasoid,,Polycystic Kidney Disease,,N,620,183,99,Current,09jun2009,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9727946,F,N,Caucasoid,,Familial GN (Including Alports),ALPORTS,Y,,178,90,Former,14dec2009,Satellite HD,,,No,N,N,N,N,N,No
+P9728249,M,N,Caucasoid,,Polycystic Kidney Disease,,N,516,173,76.3,Never,18aug2008,CAPD Hospital/Outpatient,,,No,Y,N,N,N,N,No
+P9728285,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,883,185,91,Never,02dec2008,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9729308,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1010,178,134.5,Never,31jul2008,Hospital HD,,,Yes,N,N,N,N,N,No
+P9729488,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,N,1458,163,95,Never,12dec2008,APD/IPD Hospital,,,Yes,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9730309,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,573,183,76,Never,27sep2008,Hospital HD,,,No,N,N,N,N,N,No
+P9731107,M,N,Caucasoid,,Polycystic Kidney Disease,,N,580,165,67,Never,01may2008,Satellite HD,19may2013,Y,No,N,N,N,N,N,No
+P9731557,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,635,170,104.3,Never,08aug2008,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9732750,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,617,174,66.3,Never,27oct2005,Hospital HD,,,No,N,N,N,N,N,No
+P9732998,M,N,Caucasoid,,Reflux Nephropathy,,N,500,178.5,60,Never,15aug2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9733415,F,N,Southern and Central Asian - Indian,,Diabetes Type II (Insulin Requiring),,N,363,165,64.09999999999999,Never,12jan2007,Hospital HD,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9733650,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,707,175,86,Never,18may2007,Hospital HD,,,No,N,N,N,N,N,No
+P9735742,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),BYPASS SURGERY,N,,170,67.5,Never,27may2007,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9735945,F,N,Caucasoid,,S.L.E.,,Y,610,165,94,Former,22may2007,Hospital HD,,,No,N,N,N,N,N,No
+P9736868,F,N,North - East Asian - Chinese,,Uncertain Diagnosis,SINGLE KIDNEY,N,239,160,105,Current,21apr2007,Satellite HD,,,No,N,N,N,N,N,No
+P9737419,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,753,163,110,Never,19nov2007,APD/IPD,,,No,N,N,N,N,N,No
+P9738003,F,N,North - East Asian - Chinese,,Polycystic Kidney Disease,,N,1245,170,54,Never,28mar2006,Hospital HD,,,No,N,N,N,Y,N,No
+P9739702,M,N,Caucasoid,,Reflux Nephropathy,SINGLE KIDNEY,N,,157,98.5,Current,11dec2006,Hospital HD,,,No,N,N,N,N,N,No
+P9739848,M,,Caucasoid,,Reflux Nephropathy,,Y,943,173,66.5,Never,04nov2006,Hospital HD,02may2013,Y,No,N,Y,N,N,N,No
+P9739894,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,608,184,100,Never,14nov2006,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9740277,M,N,Caucasoid,,Polycystic Kidney Disease,,Y,538,176,93,Never,09sep2006,Hospital HD,,,No,N,N,N,N,N,No
+P9740344,M,Y,South-East Asian - Filipino,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,1824,143,43,Never,02oct2006,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9741671,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,669,164,62.5,Former,07jul2006,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9742019,F,N,Caucasoid,,Polycystic Kidney Disease,,Y,490,179,95,Never,06nov2006,Satellite HD,,,No,N,N,N,N,N,No
+P9742232,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,1522,183,93,Former,29apr2006,Hospital HD,,,No,N,N,N,N,N,No
+P9742877,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,441,170,65.5,Never,06jun2000,Transplant in AUST/NZ,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P9743720,F,N,Caucasoid,,Pyelonephritis,SECONDARY TO PROLODONE ABUSE,Y,896,170,85,Never,22jan2001,CAPD Hospital/Outpatient,18nov2015,,No,N,N,N,N,N,No
+P9743979,M,N,Caucasoid,,Other (Specify),IDIOPATHIC CARPOTARSAL OSTEOLYSIS,N,550,63,20,Never,07dec2000,APD/IPD Hospital,,,No,N,Y,N,N,N,No
+P9744012,M,N,Caucasoid,,Cortical Necrosis,,N,510,96,15.4,Former,17aug2000,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9744306,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,635,169.5,65,Never,05jan1999,Hospital HD,,,No,N,N,S,N,N,No
+P9744396,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,652,170,76,Former,15mar2001,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9745577,M,N,Caucasoid,,Reflux Nephropathy,,N,747,168,83,Never,23jan2001,Hospital HD,,,No,N,N,N,N,N,No
+P9746059,M,N,Caucasoid,,Polycystic Kidney Disease,,N,567,187,89,Never,03aug2000,Hospital HD,05aug2011,Y,No,N,N,N,N,N,No
+P9746217,F,N,Caucasoid,,Mesangial Proliferative (Iga-),MULTICYSTIC DISEASE,Y,541,189,96,Current,22jun2000,Satellite HD,15jan2005,N,No,N,N,N,N,N,No
+P9746735,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,416,160,60,Current,08dec2000,Hospital HD,13may2013,N,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9747060,F,N,Oceanian - New Zealand Maori,,Membranous GN,,Y,599,185,84.7,Former,18jan2001,Hospital HD,,,No,N,N,N,N,N,No
+P9747174,M,Y,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Presumed GN (No Biopsy),,N,668,159,48,Never,04dec2000,Hospital HD,,,Yes,N,N,N,N,N,No
+P9747218,M,N,Caucasoid,,Obstructive Nephropathy,,N,564,129,27.8,Never,29nov2000,APD/IPD Hospital,,,No,Y,N,N,N,N,No
+P9747229,M,N,Caucasoid,,Membranous GN,,Y,429,156.6,68,Never,21feb2001,Hospital HD,,,No,N,N,N,N,N,No
+P9747240,F,Y,Caucasoid,,Familial GN (Including Alports),ALPORTS,Y,610,174,90,Never,12dec2000,Hospital HD,,,No,N,N,N,N,N,No
+P9747624,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,756,175,91.8,Never,30nov2000,Transplant in AUST/NZ,,,Yes,N,N,N,N,N,No
+P9748996,M,,Oceanian - New Zealand Maori,,Uncertain Diagnosis,,N,620,173,69,Never,07dec2000,Hospital HD,,,Yes,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9750008,M,N,Caucasoid,,Reflux Nephropathy,,N,842,165,55,Never,08jan2001,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9750886,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,NEUROPATHIC BLADDER,N,634,148,43,Never,29jan2001,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9750897,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,Y,900,130.3,30.1,Never,16dec2000,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9751494,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1006,184,80.5,Former,05feb2001,Satellite HD,,,No,N,N,N,N,N,No
+P9753080,M,N,Caucasoid,,Medullary Cystic Disease,,Y,743,165,56,Former,02jun2004,Hospital HD,,,No,N,N,N,N,N,No
+P9753418,F,N,Southern and Central Asian - Indian,,Renal Tuberculosis,,Y,1068,157.5,50.5,Never,25feb2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9753879,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1060,177,91,Former,23nov2004,Hospital HD,,,No,Y,N,N,N,N,No
+P9753957,F,N,Caucasoid,,Polycystic Kidney Disease,,N,299,171,97,Never,11oct2004,Satellite HD,,,No,Y,N,N,N,N,No
+P9754249,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,792,180,95,Former,17dec2004,Hospital HD,,,No,N,N,N,N,N,No
+P9754644,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,1350,193,83,Current,07dec2004,CAPD Hospital/Outpatient,03aug2010,Y,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9754779,M,Y,North - East Asian - Chinese,,Other (Specify),MEDULLARY SPONGE KIDNEY,N,1040,150,45,Never,12jul2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9755160,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,680,154,105,Never,12oct2004,Hospital HD,05oct2013,Y,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9755387,M,N,Oceanian - Polynesian (Specify),TONGAN,Diabetes Type II (Non-Insulin Requiring),,Y,1184,183,91,Never,22apr2004,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9755543,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,490,174,75,Never,28oct2004,Hospital HD,22may2013,Y,No,N,N,N,N,N,No
+P9756265,F,N,Caucasoid,,Polycystic Kidney Disease,,N,566,180,78.5,Former,12may2004,Hospital HD,,,No,N,N,N,N,N,No
+P9756871,M,,Oceanian - New Zealand Maori,,Advanced GN (Unclassified=End Stage),,Y,667,169,71,Former,19dec2005,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9757096,M,N,North African and Middle Eastern - Arab (Specify),ARAB,Mesangial Proliferative (Iga+),,Y,550,156,79,Never,21jun2004,Hospital HD,,,No,N,Y,Y,N,N,No
+P9758242,M,N,Caucasoid,,Polycystic Kidney Disease,,N,686,169,77.8,Never,25nov2004,Hospital HD,,,No,N,N,N,N,N,No
+P9758253,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,493,152,51.5,Never,09jul2002,Hospital HD,,,No,N,N,N,N,N,No
+P9758525,M,N,Caucasoid,,Membranous GN,,Y,642,190,75,Never,07apr2004,Hospital HD,,,No,N,N,,N,N,No
+P9759515,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,670,168,81,Never,19oct2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9759886,M,N,Caucasoid,,Proliferative GN with Linear IgG and No Lung Haemorrhage,,Y,680,168,49,,10may2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9760245,M,Y,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,814,155,64,Former,11aug2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9760560,M,N,Caucasoid,,Membranous GN,,Y,1100,170,60,Former,17may2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9760583,M,N,Caucasoid,,Polycystic Kidney Disease,,N,759,175,72.5,Never,13oct2004,Hospital HD,,,No,N,N,N,N,N,No
+P9760898,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,570,185,92,Never,11jun2004,Hospital HD,,,No,N,N,N,N,N,No
+P9761831,M,N,Caucasoid,,Reflux Nephropathy,NEPHRECTOMY 1983,N,792,161,87,Never,10may2004,Hospital HD,09mar2014,Y,No,N,N,N,N,N,No
+P9762699,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,750,170,81.5,Never,10nov2003,Satellite HD,,,No,N,N,N,N,N,No
+P9763318,F,Y,South-East Asian (Specify),BURMESE,Advanced GN (Unclassified=End Stage),,Y,920,166,71.5,Never,22apr2004,Hospital HD,,,No,N,N,N,N,N,No
+P9764679,M,N,South-East Asian - Filipino,,S.L.E.,,Y,828,158,41.3,Never,13aug2004,Hospital HD,10feb2011,Y,No,N,N,N,N,N,No
+P9765399,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,700,160,57,Never,08nov2004,CAPD Hospital/Outpatient,,,No,Y,N,N,N,O,Type 1 - Insulin Dependent
+P9765893,M,N,Oceanian - Australian Aboriginal,,Presumed GN (No Biopsy),,N,966,164,53,Former,15sep2004,Hospital HD,09jul2006,N,Yes,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9766524,M,Y,Caucasoid,,GN Other (Specify),ANTIBASEMENT MEMBRANE-NO LUNG HAEM,Y,806,155,40,Never,11feb2004,Hospital HD,,,No,N,N,N,N,N,No
+P9768761,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,617,183,91.5,Never,06feb2004,Hospital HD,,,No,N,N,N,N,N,No
+P9769505,M,N,Caucasoid,,Polycystic Kidney Disease,,N,410,176,75,Never,10nov2003,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9769527,F,N,Caucasoid,,Mesangiocapillary GN (Double Contour),WITH CRESCENTS,Y,1064,136.2,36,Never,14oct2003,Hospital HD,,,No,N,N,N,N,N,No
+P9769707,F,,Caucasoid,,Mesangial Proliferative (Iga+),,Y,820,187,109,Never,09mar2004,Hospital HD,,,No,N,N,N,N,N,No
+P9770044,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,864,170,85,Never,19nov2003,Hospital HD,,,No,N,N,N,N,N,No
+P9770719,F,N,Caucasoid,,Polycystic Kidney Disease,,N,250,177,97,Never,10nov2003,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P9770776,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,417,169.5,142.5,Never,21oct2003,Hospital HD,,,No,N,N,N,N,N,No
+P9771180,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,960,169,70,Former,14oct2003,Hospital HD,,,No,N,N,N,N,N,No
+P9771720,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,334,174,90,Never,01dec2003,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P9771933,M,N,Southern and Central Asian - Indian,,Uncertain Diagnosis,,N,1400,148,41.5,Former,02feb2004,Hospital HD,,,No,N,N,N,N,N,No
+P9772273,F,N,Caucasoid,,S.L.E.,,Y,563,170,82.40000000000001,Never,16jul2003,Hospital HD,30mar2010,N,No,N,N,Y,N,N,No
+P9772913,M,N,South-East Asian - Vietnamese,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,710,155,55.4,Former,08jul2003,CAPD Hospital/Outpatient,,,No,N,N,N,Y,N,No
+P9773261,M,N,South-East Asian (Specify),EAST TIMORESE,Focal and Segmental Proliferative GN,,Y,1090,165,50,Current,02jun2003,Hospital HD,,,No,N,N,N,N,N,No
+P9773926,M,Y,Caucasoid,,Reflux Nephropathy,,N,1114,162,72.5,Former,02feb2004,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P9774545,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,Y,1070,183,92,Never,30mar2004,Hospital HD,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P9774691,M,N,Caucasoid,,S.L.E.,,Y,568,155.5,71,Former,29jan2004,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9774905,M,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,690,160,55,Never,21nov2003,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9776051,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1480,164,75,Never,23feb2004,Transplant in AUST/NZ,,,No,N,N,N,Y,N,No
+P9776502,F,Y,North African and Middle Eastern - Arab (Specify),ARAB,Medullary Cystic Disease,,Y,420,166.8,60.1,Never,27oct2003,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9776784,F,N,South-East Asian (Specify),LAOTIAN,Medullary Cystic Disease,CALCULI,Y,576,145,58,Never,01mar2004,Hospital HD,10apr2013,Y,No,N,N,Y,N,P,Type 2 - Non-Insulin Requiring
+P9777188,F,N,Oceanian - Polynesian (Specify),COOK ISLANDER,Focal Sclerosing GN (Including Hyalinosis),,Y,489,125.6,27.5,Never,11nov2003,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9777750,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,507,173,66,Never,02jan2004,Hospital HD,23apr2015,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9777818,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,429,171,65,Former,05jan2004,Hospital HD,,,No,N,N,N,N,N,No
+P9780124,M,N,Caucasoid,,Obstructive Nephropathy,,N,660,168,72,Unknown,11oct2004,CAPD Hospital/Outpatient,05sep2015,Y,No,N,N,N,N,N,No
+P9780474,M,Y,Caucasoid,,Familial GN (Including Alports),ALPORTS,Y,443,177,86,Never,21jun2004,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P9780652,F,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,N,671,167,67,Former,29jun2004,Hospital HD,,,No,N,N,Y,N,P,Type 2 - Non-Insulin Requiring
+P9781396,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,895,153,42,Never,06aug2004,Hospital HD,29jan2007,Y,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P9781429,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,750,183,76,Never,04nov2004,Hospital HD,,,No,N,N,N,N,N,No
+P9781969,M,N,South East Asian - Malay,,Mesangial Proliferative (Iga+),,Y,,154,50,Former,12may2003,CAPD Hospital/Outpatient,,,Yes,N,N,S,N,N,No
+P9782791,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,859,170,75,Never,09sep2003,Hospital HD,,,No,N,N,N,N,N,No
+P9783196,M,N,Caucasoid,,S.L.E.,,Y,551,165.5,61.6,Never,17jul2003,Hospital HD,,,Yes,N,N,N,N,N,No
+P9784389,F,,Caucasoid,,Reflux Nephropathy,,Y,792,167.7,81,Former,02jul2003,Transplant in AUST/NZ,,,No,N,N,N,S,N,No
+P9784974,M,N,South-East Asian (Specify),CAMBODIAN,Mesangial Proliferative (Iga+),,Y,565,161,56.5,Former,06sep2003,Hospital HD,,,No,N,N,N,Y,N,No
+P9785525,M,N,Oceanian - Polynesian (Specify),SAMOAN,Mesangial Proliferative (Iga+),,Y,1438,185,86.90000000000001,Never,03jun2003,Hospital HD,,,No,N,N,N,N,N,No
+P9786515,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,507,170,90,Former,05mar2003,Hospital HD,,,No,N,N,N,N,N,No
+P9788246,M,N,South-East Asian - Filipino,,Diabetes Type II (Insulin Requiring),,N,328,169,76,Never,06aug2003,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9788281,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,739,168.5,69.5,Never,25sep2003,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P9788405,M,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,480,155,46,Never,01sep2003,Satellite HD,,,No,N,N,N,N,N,No
+P9788664,M,Y,Caucasoid,,Scleroderma,CAMEURATI ENGLEMAN SYNDROME,N,1330,156,40,Never,05may2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9789608,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,907,174.5,83.3,Never,27sep2003,Hospital HD,,,No,N,N,N,N,N,No
+P9789753,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,670,169,59.4,Never,23may2003,Hospital HD,,,No,N,N,N,S,N,No
+P9790192,M,N,Oceanian - Polynesian (Specify),SAMOAN,Mesangial Proliferative (Iga+),,Y,733,169.8,80.2,Current,26jul2003,Hospital HD,,,No,N,N,N,N,N,No
+P9790385,M,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,431,165,89.5,Former,01sep2003,Hospital HD,,,No,N,Y,N,N,N,No
+P9790677,F,Y,Oceanian - New Zealand Maori,,Reflux Nephropathy,,N,,160,56,Never,04dec2007,Hospital HD,,,No,N,N,N,N,N,No
+P9790924,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,1007,166,75,Never,05sep2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9792015,M,N,Caucasoid,,S.L.E.,,Y,350,162,70,Never,20jun2003,Hospital HD,,,No,N,N,N,N,N,No
+P9792848,F,Y,Caucasoid,,Focal and Segmental Proliferative GN,,Y,417,175,71.7,Never,10feb2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9793140,M,N,Caucasoid,,Polycystic Kidney Disease,,N,750,165,78.5,Never,05dec2002,Hospital HD,,,No,N,N,N,N,N,No
+P9794502,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,615,177,98.7,Never,28feb2003,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9794896,F,N,Caucasoid,,Reflux Nephropathy,,Y,708,150,40,Never,02dec2002,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9795279,M,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,Y,732,171,102.2,Current,06nov2002,Hospital HD,31dec2008,Y,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9795458,M,N,Caucasoid,,Amyloid Disease,,Y,,179,74,Never,06jan2003,Satellite HD,,,Yes,N,N,N,N,N,No
+P9795829,F,N,Caucasoid,,Polycystic Kidney Disease,,N,740,182,103,Current,27aug2002,Hospital HD,,,No,N,N,Y,N,N,No
+P9796155,F,N,Caucasoid,,Polycystic Kidney Disease,,N,991,168,74.5,Never,28jan2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9796505,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,872,162,53.2,Never,19mar2003,Hospital HD,,,No,N,N,N,N,N,No
+P9797719,M,,Southern and Central Asian - Indian,,Mesangial Proliferative (Iga+),,Y,439,168,54,Never,13nov2002,Hospital HD,,,No,N,N,N,N,N,No
+P9797798,F,N,Caucasoid,,Reflux Nephropathy,ACUTE TUBULAR NECROSIS,Y,830,184,67.40000000000001,Former,23mar2003,Hospital HD,,,Yes,N,N,N,N,N,No
+P9797967,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1155,178.5,101,Former,09jan2003,Hospital HD,,,No,N,N,N,N,N,No
+P9798731,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,915,179,110,Never,07jan2003,Hospital HD,,,No,N,N,N,N,N,No
+P9800058,F,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,1095,170,75,Never,03mar2003,Hospital HD,,,No,N,N,N,N,N,No
+P9800126,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,693,158,54.5,Never,24nov2002,CAPD Hospital/Outpatient,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9800238,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,,167,62.5,Never,28oct2002,CAPD Hospital/Outpatient,11nov2015,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9800351,M,N,Oceanian - Australian Aboriginal,,Presumed GN (No Biopsy),,N,344,160,90,Never,20dec2002,Hospital HD,,,No,N,N,N,N,N,No
+P9800542,F,N,Caucasoid,,Polycystic Kidney Disease,,N,764,179,67.8,Former,17mar2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9801825,M,N,Oceanian - New Zealand Maori,,Pyelonephritis,SINGLE (L) KIDNEY,N,,165.5,56,Never,09nov2002,Hospital HD,,,No,N,N,N,N,N,No
+P9802038,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,963,167,76,Former,06dec2002,Hospital HD,28may2008,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9803289,M,N,Caucasoid,,Reflux Nephropathy,,Y,641,178,91,Former,09dec2002,Hospital HD,03dec2010,Y,No,N,N,N,N,N,No
+P9803334,M,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,1690,157,51,Never,02apr2002,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9803760,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,347,157.5,57.5,Never,10mar2003,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P9804188,M,N,Caucasoid,,Mesangial Proliferative (No If Studies),,Y,670,180,83,Current,28may1999,Hospital HD,,,No,N,N,N,N,N,No
+P9804571,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,554,161.5,52.9,Never,20jan2003,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9804582,M,N,Caucasoid,,Uncertain Diagnosis,,N,801,184,83.90000000000001,Never,27nov2002,Hospital HD,,,No,N,N,N,N,N,No
+P9804594,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,541,187,74,Former,17oct2002,Hospital HD,31mar2010,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9805234,M,N,Caucasoid,,Polycystic Kidney Disease,,N,1026,162,77,Former,13jan2003,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9805415,M,Y,Southern and Central Asian - Indian,,Mesangial Proliferative (Iga+),,Y,631,150,63,Never,11dec2002,Hospital HD,16aug2015,Y,No,Y,N,N,N,N,No
+P9805819,F,N,Caucasoid,,Presumed GN (No Biopsy),CLINICALLY IGA GN-NO IF STUDIES,N,904,188,79,Never,28apr2002,Hospital HD,,,No,N,N,N,N,N,No
+P9805942,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,510,170,72.7,Former,27may2002,CAPD Hospital/Outpatient,08oct2013,N,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9805977,M,N,Caucasoid,,Scleroderma,,Y,755,160,63.9,Never,30sep2002,CAPD Hospital/Outpatient,24apr2004,Y,No,N,N,N,N,N,No
+P9806596,M,N,Oceanian - Australian Aboriginal,,Diabetes Type I (Insulin Dependent),,N,1042,172,78.3,Never,25may2002,Satellite HD,,,Yes,N,N,N,N,O,Type 1 - Insulin Dependent
+P9807878,F,N,Caucasoid,,Polycystic Kidney Disease,,N,500,177,110,Former,14may2002,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9808147,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1062,172,66,Never,18jun2002,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9808508,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1490,152.4,46.1,,25jul2002,Transplant in AUST/NZ,09may2006,N,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9809285,F,N,North - East Asian - Chinese,,Presumed GN (No Biopsy),,N,677,158,60,Never,05aug2002,Hospital HD,24oct2009,Y,No,N,N,N,N,N,No
+P9810387,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,520,183,88,Current,30jul2002,Hospital HD,19sep2005,Y,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9810802,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,,162,59.5,Never,27jun2002,Hospital HD,16jun2012,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9811139,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1276,184,91.5,Never,06sep2002,Hospital HD,,,No,Y,N,N,N,N,No
+P9811714,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,490,168,90,Former,19aug2002,CAPD Hospital/Outpatient,18mar2005,N,No,Y,N,N,N,Q,Type 2 - Insulin Requiring
+P9812129,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,745,170,73,Former,21apr2002,Hospital HD,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9812749,M,N,North African and Middle Eastern (Specify),COLORED AFRICAN,Mesangial Proliferative (Iga-),VASCULITIS,Y,700,173,75,Never,12mar2002,Hospital HD,29nov2011,Y,No,N,Y,S,N,N,No
+P9812772,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1040,173,71,Never,17jan2002,Hospital HD,,,No,N,N,N,N,N,No
+P9812828,F,N,Caucasoid,,Reflux Nephropathy,,N,1086,168,85.5,Former,22oct2001,Hospital HD,,,No,N,N,N,N,N,No
+P9812951,M,N,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,959,171,66.5,Never,15jan2002,Hospital HD,,,No,N,N,Y,N,N,No
+P9813301,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,N,502,171,60,Former,04jul2002,Hospital HD,28feb2014,N,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9813785,M,N,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,983,178,90,Former,22aug2002,Hospital HD,,,No,N,N,N,N,N,No
+P9814269,F,Y,Caucasoid,,S.L.E.,SJOGRENS SYNDROME,Y,586,157,65,Never,27aug2002,Hospital HD,,,No,N,N,N,N,N,No
+P9815371,M,N,Caucasoid,,Other (Specify),LAURENCE-MOON-BARDET-BIEDL SYNDROME,N,546,184,92.5,Never,18jun2002,Satellite HD,,,No,N,N,N,N,N,No
+P9815506,M,N,Caucasoid,,Polycystic Kidney Disease,,N,426,175,69,Former,22jul2002,Satellite HD,,,No,N,N,N,N,N,No
+P9816068,M,N,Caucasoid,,Diabetes Type II (Non-Insulin Requiring),,N,367,172,92,Never,27jun2002,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9816417,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1032,180,84,Former,09apr2002,Hospital HD,,,No,N,N,N,N,N,No
+P9816474,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,650,179,96,Never,08apr2002,Hospital HD,04nov2006,Y,No,N,,N,Y,O,Type 1 - Insulin Dependent
+P9816990,F,N,Oceanian - New Zealand European,,Cystinosis,,N,717,130.5,35,Never,04sep2002,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9817192,M,N,Caucasoid,,Lithium Toxicity,,Y,711,175,83,Never,27aug2002,Hospital HD,30aug2014,Y,No,N,Y,N,N,N,No
+P9818182,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,594,172,86,Former,03dec2001,CAPD Hospital/Outpatient,,,No,Y,N,Y,N,P,Type 2 - Non-Insulin Requiring
+P9818566,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,330,176,81,Never,20feb2002,Transplant in AUST/NZ,02oct2012,Y,No,N,N,N,N,N,No
+P9819365,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,930,164,74,Current,02jan2002,CAPD Hospital/Outpatient,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9820265,M,Y,Caucasoid,,Obstructive Nephropathy,RENAL HYPOPLASIA AND DYSPLASIA,N,545,162.5,76.8,Never,12jun2001,Hospital HD,,,No,N,N,N,N,N,No
+P9820894,F,N,Caucasoid,,Posterior Urethral Valves,,N,592,136.4,31,Former,22nov2001,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9820927,F,N,Oceanian - Australian Aboriginal,,Mesangiocapillary GN (Double Contour),,Y,720,146,30,Former,05nov2001,Hospital HD,,,No,N,N,N,N,N,No
+P9822503,M,N,Southern and Central Asian - Indian,,Advanced GN (Unclassified=End Stage),,Y,,169,84,Current,21jan2002,CAPD Hospital/Outpatient,01aug2016,Y,No,N,N,N,N,N,No
+P9822537,M,N,Southern and Central Asian - Indian,,Diabetes Type II (Insulin Requiring),,N,615,164.5,53,Never,20jun2001,CAPD Hospital/Outpatient,08may2013,Y,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9823415,F,N,Caucasoid,,S.L.E.,,Y,587,168,72,Never,16feb2002,Hospital HD,,,No,N,N,N,N,N,No
+P9823606,F,,Oceanian - Torres Strait Islander,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,608,172,98.8,Never,27mar2002,Hospital HD,,,No,N,N,S,N,N,No
+P9823639,F,N,Caucasoid,,Reflux Nephropathy,,N,523,155,69,Never,14feb2002,Hospital HD,,,No,Y,N,N,N,N,No
+P9823674,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1570,165,65,Never,23oct2001,Hospital HD,03mar2015,Y,No,N,N,N,N,N,No
+P9823729,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,788,165,52,Former,24nov2001,Hospital HD,27apr2004,Y,No,N,N,Y,N,N,No
+P9823764,M,N,Oceanian - New Zealand Maori,,Diabetes Type II (Insulin Requiring),,N,886,159,93,Former,05nov2001,CAPD Hospital/Outpatient,03may2011,Y,No,S,S,N,N,Q,Type 2 - Insulin Requiring
+P9823797,M,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1443,159,84,Former,10jan2002,Hospital HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9824055,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,REFLUX NEPHROPATHY,N,1150,165,74,Never,09may2002,Hospital HD,,,No,N,N,N,N,N,No
+P9824393,F,N,Caucasoid,,Interstitial Nephritis,,Y,599,180,89,Current,05oct2001,Hospital HD,23nov2007,Y,No,N,N,N,N,N,No
+P9825529,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,,178,83,Never,12oct2001,Hospital HD,29dec2015,N,No,N,N,N,N,N,No
+P9825731,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Insulin Requiring),,N,1231,173,70,Never,26oct2001,APD/IPD Hospital,01apr2004,N,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9826767,M,N,Caucasoid,,Familial GN (Including Alports),LAMINOPATHY,Y,230,170,85,Former,25mar2002,Hospital HD,04feb2008,N,No,N,N,N,N,N,No
+P9827386,M,Y,South-East Asian - Filipino,,Uncertain Diagnosis,,N,739,156,61.5,Never,05oct2001,Hospital HD,,,No,N,N,N,N,N,No
+P9828420,M,N,Caucasoid,,Other (Specify),THROMBOTIC THROMBOCYTOPAENIA,Y,884,150,60,Never,31jan2002,Hospital HD,,,No,N,N,N,N,N,No
+P9828634,M,N,Caucasoid,,Haemolytic Uraemic Syndrome,,Y,,172,78,Former,24oct2001,APD/IPD Hospital,13apr2016,N,No,N,N,N,N,N,No
+P9828690,F,Y,Caucasoid,,Focal and Segmental Proliferative GN,,Y,,154,77,Never,14jan2002,CAPD Hospital/Outpatient,28dec2005,Y,No,N,N,N,N,N,No
+P9829005,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1100,161,56,Current,24sep2001,Satellite HD,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9829657,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,400,198,93,Former,17sep2001,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P9830266,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,994,160,74,Former,11may2001,Hospital HD,14jul2011,Y,No,N,N,N,N,N,No
+P9830512,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,390,177.5,70,Former,10apr2001,Hospital HD,,,No,N,N,N,Y,N,No
+P9830748,M,N,South-East Asian (Specify),CAMBODIAN,Renal Vascular Disease (Malignant Hypertension) No prd,,N,835,172,78,Never,23aug2001,Hospital HD,,,No,N,N,N,N,N,No
+P9830794,M,Y,Caucasoid,,Advanced GN (Unclassified=End Stage),SINGLE KIDNEY,Y,504,155.5,69.3,Former,05apr2001,Hospital HD,06dec2010,N,No,N,N,N,N,N,No
+P9830996,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,Y,530,166,65,Never,06jun2001,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9831648,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,700,175,91,Never,20may2001,Transplant in AUST/NZ,27feb2010,N,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P9831760,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,388,164,55.9,Former,17apr2001,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9832740,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,570,172,74,Never,08nov2000,CAPD Hospital/Outpatient,08dec2016,,No,N,Y,N,N,O,Type 1 - Insulin Dependent
+P9832942,M,N,North African and Middle Eastern - Arab (Specify),ARAB,Focal Sclerosing GN (Including Hyalinosis),,Y,471,160,93,Former,23feb2000,Satellite HD,,,No,N,N,N,N,N,No
+P9833675,M,N,Caucasoid,,Reflux Nephropathy,,N,835,168,62,Never,11jul2001,Hospital HD,,,No,N,N,N,N,N,No
+P9833787,M,N,Caucasoid,,Familial GN (Including Alports),ALPORTS,Y,,176,56.5,,05apr2001,Hospital HD,,,No,N,N,N,N,N,No
+P9834101,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,559,178.5,68.8,Former,20aug2001,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9834305,F,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,744,160,62,Never,07jun1998,Hospital HD,01oct2006,N,Yes,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9834360,F,N,Caucasoid,,Mesangial Proliferative (Iga-),,Y,796,169,63,Never,19apr2001,Hospital HD,,,No,N,N,N,N,N,No
+P9834753,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,748,172.7,78.90000000000001,Current,17may2001,Hospital HD,,,No,N,Y,N,N,N,No
+P9835136,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,520,155,74,Never,03sep2001,Hospital HD,,,No,N,N,N,N,N,No
+P9835418,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,169,175,57,Never,17may2001,Hospital HD,,,No,N,N,N,N,N,No
+P9835789,M,Y,Caucasoid,,Reflux Nephropathy,,N,,159,59,Never,06aug2001,CAPD Hospital/Outpatient,04nov2014,N,No,N,N,N,N,N,No
+P9836002,M,Y,Caucasoid,,Presumed GN (No Biopsy),,N,524,184,108,Former,05mar2001,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9836193,M,N,Caucasoid,,Analgesic Nephropathy,,N,490,154.9,54,Former,03jul2001,CAPD Hospital/Outpatient,13aug2004,Y,No,N,N,N,N,N,No
+P9836408,F,N,Caucasoid,,Reflux Nephropathy,,N,510,160,48,Former,13jan2000,Hospital HD,,,No,N,S,N,N,N,No
+P9836902,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,1650,164,52.8,Never,15jun2001,CAPD Hospital/Outpatient,,,No,S,N,N,N,N,No
+P9837420,M,N,Caucasoid,,Polycystic Kidney Disease,,N,973,174,63,Former,27aug2001,CAPD Hospital/Outpatient,22sep2016,N,Yes,N,N,N,N,N,No
+P9837645,F,N,Oceanian - New Zealand European,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,N,660,160,52,Former,08aug2001,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9838072,M,N,Caucasoid,,Other Lower Urinary Tract Abnormalities (with Secondary Reflux),HYPOPLASTIC BLADDER-DYSPLASTIC KID,N,527,89,13.4,Former,20jul2001,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9838995,F,,Caucasoid,,Proliferative GN with Linear IgG and No Lung Haemorrhage,,Y,727,167,93.7,Never,05apr2001,Hospital HD,,,No,N,N,N,N,N,No
+P9839355,F,N,Caucasoid,,Reflux Nephropathy,,N,118,182,74,Never,28may2001,CAPD Hospital/Outpatient,03apr2014,N,No,N,N,Y,Y,N,No
+P9839647,M,N,Caucasoid,,Presumed GN (No Biopsy),CONGENITAL NEPHROTIC SYNDROME,N,937,65,6,Never,23jul2001,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9839838,F,N,Caucasoid,,Cortical Necrosis,,Y,782,100.6,14,Never,27aug2001,Hospital HD,,,No,N,N,N,N,N,No
+P9840760,M,N,Caucasoid,,Uncertain Diagnosis,,N,,182,83,Never,12may2001,Hospital HD,,,No,N,N,N,N,N,No
+P9841030,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,417,182,86,Never,25apr2001,Hospital HD,,,No,N,N,N,N,N,No
+P9841357,M,Y,Caucasoid,,Calcineurin Inhibitor Toxicity,,Y,630,180,73,Never,11dec2000,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9841919,M,N,North - East Asian - Chinese,,S.L.E.,,Y,930,160,49,Never,02nov2000,Hospital HD,,,No,N,N,N,N,N,No
+P9841987,M,N,Caucasoid,,Uncertain Diagnosis,,Y,896,50,3.2,Never,15nov2000,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9844408,F,N,South-East Asian - Filipino,,Focal Sclerosing GN (Including Hyalinosis),,Y,860,165,59,Former,28aug1995,Hospital HD,,,No,N,Y,N,,N,No
+P9846353,F,N,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,780,175.1,72,Never,15may1995,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P9848018,M,N,Caucasoid,,Reflux Nephropathy,,,666,156,47,Never,15may1995,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9849864,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,930,122.5,29.2,,21aug1995,Hospital HD,,,No,N,N,N,N,N,No
+P9849919,F,N,Caucasoid,,Polycystic Kidney Disease,,N,,155,54,Never,16jun1995,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9850211,M,N,Caucasoid,,Megaureter,REFLUX NEPHROPATHY,N,680,157,51,Current,26jun1995,Hospital HD,,,No,N,N,N,N,N,No
+P9852000,F,N,Oceanian - Melanesian And Papuan (Specify),PACIFIC PEOPLE,Presumed GN (No Biopsy),,N,,170,55,Never,10jul1995,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9852879,F,N,Caucasoid,,Polycystic Kidney Disease,,N,2150,185,83,Current,13apr2000,Hospital HD,,,Yes,N,S,N,N,N,No
+P9853115,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1280,158,79,Former,19apr2000,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9854160,M,N,Caucasoid,,Reflux Nephropathy,,N,799,169,62,Never,14may2000,Hospital HD,03nov2007,Y,No,N,N,N,Y,N,No
+P9854172,F,N,Caucasoid,,Reflux Nephropathy,,N,793,180,82.5,Never,24mar2000,Hospital HD,,,No,N,N,N,N,N,No
+P9854409,F,N,Southern and Central Asian - Indian,,Reflux Nephropathy,,Y,650,159,43,Never,10apr2000,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9854488,F,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),ANCA POSITIVE,Y,,156,55,Never,10apr2000,Hospital HD,,,No,N,N,Y,N,N,No
+P9855139,F,N,Caucasoid,,Membranous GN,,Y,330,163,47,Former,03may2000,Hospital HD,25feb2004,Y,Yes,N,Y,N,N,N,No
+P9855792,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1212,172,72,Never,08aug2000,Hospital HD,24jul2015,N,No,N,N,N,N,N,No
+P9856107,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,455,175,65.5,Never,26mar2000,Hospital HD,,,No,N,N,N,N,N,No
+P9857152,F,N,Caucasoid,,Reflux Nephropathy,,N,822,126,27,Never,21apr2000,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9858210,M,N,South-East Asian - Vietnamese,,Presumed GN (No Biopsy),SMALL KIDNEYS,N,828,165,54,Former,03may2000,Hospital HD,,,No,N,N,N,N,N,No
+P9859077,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,719,154.5,47.5,Never,19apr2000,Hospital HD,20aug2005,Y,Yes,N,N,N,N,N,No
+P9859606,F,N,Caucasoid,,GN With Systemic Disease (Specify),IMMUNE COMPLEX GN,Y,980,168,65,Never,01may2000,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9860134,M,N,Oceanian - Polynesian (Specify),COOK ISLANDER,Cortical Necrosis,,N,630,69,6.8,Never,16apr2000,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9860212,M,,Oceanian - New Zealand Maori,,Presumed GN (No Biopsy),,N,605,169,114.2,Never,29jun2000,Hospital HD,28jan2016,N,No,N,N,N,N,N,No
+P9860967,M,N,Caucasoid,,Reflux Nephropathy,,N,1000,165,54.2,Never,08aug2000,Hospital HD,,,No,N,N,N,N,N,No
+P9861180,M,N,Caucasoid,,Membranous GN,,Y,865,175,81,Former,20jul2000,Hospital HD,,,No,N,N,N,N,N,No
+P9861461,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,710,179,59,Former,17mar2000,Hospital HD,,,No,N,N,N,N,N,No
+P9861507,M,,Caucasoid,,Mesangial Proliferative (Iga+),,Y,932,157,57,Never,15aug2000,Hospital HD,,,No,N,N,N,N,N,No
+P9863690,M,N,Caucasoid,,Medullary Cystic Disease,,N,,168.5,61.7,Never,24may2000,Hospital HD,15jul2008,Y,No,N,N,N,Y,N,No
+P9863712,F,N,South-East Asian - Vietnamese,,Presumed GN (No Biopsy),,N,1015,153,40,Former,01sep2000,Hospital HD,,,No,N,N,N,N,N,No
+P9864826,M,N,Caucasoid,,Proliferative GN with Linear IgG and No Lung Haemorrhage,ANCA POSITIVE,Y,262,162,59,Former,18nov1999,Hospital HD,06nov2014,Y,No,Y,N,N,Y,N,No
+P9865433,M,N,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,2430,195,81.59999999999999,Former,30sep1999,Hospital HD,,,Yes,N,N,N,N,N,No
+P9867941,M,N,Caucasoid,,Cystinosis,,N,730,119.5,24.5,Never,18jan2001,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9869618,M,N,Caucasoid,,Other Lower Urinary Tract Abnormalities (with Secondary Reflux),PRUNE BELLY SYNDROME,N,890,152.8,40,Never,05jan2000,Hospital HD,12jul2009,N,No,N,N,N,N,N,No
+P9869741,F,Y,Caucasoid,,Focal and Segmental Proliferative GN,,Y,450,171,66,Former,18dec1999,Hospital HD,22may2003,Y,No,N,N,N,N,N,No
+P9869820,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,460,170,77,Never,11oct1999,CAPD Hospital/Outpatient,,,No,N,N,Y,N,P,Type 2 - Non-Insulin Requiring
+P9870079,M,Y,Caucasoid,,Mesangiocapillary GN (Dense Deposit Disease),,Y,780,181.6,90,Never,23feb2000,Hospital HD,17apr2016,N,Yes,N,N,N,N,N,No
+P9870101,F,Y,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,459,161,59,Former,25jul1999,Hospital HD,10jul2009,N,No,Y,Y,N,N,O,Type 1 - Insulin Dependent
+P9871046,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,,176,60,Never,13dec1999,APD/IPD Hospital,,,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9871057,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,787,168,69,Former,14dec1999,Hospital HD,,,No,N,Y,N,N,N,No
+P9871991,F,N,Caucasoid,,Polycystic Kidney Disease,,N,,200,79,Never,09sep1999,Hospital HD,06oct2016,Y,No,N,N,N,N,N,No
+P9873196,M,N,Caucasoid,,Reflux Nephropathy,,N,,162,72,Former,06apr1999,Hospital HD,,,No,N,N,S,N,N,No
+P9873309,M,N,Oceanian - Australian Aboriginal,,Diabetes Type II (Non-Insulin Requiring),,Y,808,166,77,Never,28jul1999,Hospital HD,15jun2005,Y,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9873747,F,Y,Caucasoid,,Analgesic Nephropathy,,Y,819,150,58,Never,22oct1999,Hospital HD,,,No,N,N,N,Y,N,No
+P9874175,M,N,South-East Asian - Filipino,,Familial GN (Including Alports),ALPORTS,Y,480,162,36,Current,03feb2000,Hospital HD,,,No,N,N,N,N,N,No
+P9874613,F,N,Caucasoid,,Polycystic Kidney Disease,,N,1241,182,103,Never,19may1999,Hospital HD,,,No,N,N,N,N,N,No
+P9874961,F,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,719,171.5,53,Former,01jun1999,Hospital HD,,,Yes,N,N,N,N,N,No
+P9875254,F,Y,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,,170,93,Never,22dec1999,Hospital HD,,,Yes,N,N,N,N,N,No
+P9875334,F,N,Oceanian - Melanesian And Papuan (Specify),FIJIAN,Mesangial Proliferative (Iga+),,Y,1830,150.5,42.5,Never,17apr1999,Hospital HD,,,No,N,N,N,N,N,No
+P9877245,M,N,Caucasoid,,Infantile/Juvenile Polycystic Kidney Disease,,Y,528,80.2,13,Former,28jul1999,Transplant in AUST/NZ,,,No,N,N,N,S,N,No
+P9878719,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,615,153,64,Former,12jul1999,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9879271,M,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,1314,165.5,65,Never,08jun1999,CAPD Hospital/Outpatient,24oct2013,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9880317,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,701,165.5,54.4,Never,23aug1999,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P9881846,F,N,South-East Asian - Filipino,,Uncertain Diagnosis,,N,1027,145,51,Never,02jul1999,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9882037,F,N,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,2800,170,74,Never,12dec1997,CAPD Hospital/Outpatient,,,No,N,N,Y,N,N,No
+P9883252,M,Y,North African and Middle Eastern - Arab (Specify),ARAB,Mesangiocapillary GN (Double Contour),,Y,1850,112,25,Former,05nov1998,APD/IPD Hospital,,,No,N,S,N,N,N,No
+P9883737,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,580,174,91,Former,17aug1999,Hospital HD,,,No,N,N,N,N,N,No
+P9883860,F,N,Caucasoid,,Polycystic Kidney Disease,,N,444,158,58,Former,02aug1999,Satellite HD,11feb2013,Y,Yes,N,N,N,N,N,No
+P9884368,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,369,167.5,81,Current,05mar1999,Hospital HD,23jul2002,Y,No,Y,S,N,N,N,No
+P9885593,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,1040,181,50.7,Never,30nov1998,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P9886999,F,N,Caucasoid,,Polycystic Kidney Disease,,N,456,177,85,Never,18nov1998,Hospital HD,21dec2002,Y,No,N,N,N,N,N,No
+P9887032,F,N,Caucasoid,,Other (Specify),JUVENILE NEPHRONOPHTHISIS,Y,589,142,31.2,Former,05mar1999,Hospital HD,23mar2012,N,No,N,N,N,Y,N,No
+P9888112,M,N,Caucasoid,,Microscopic Polyarteritis,,Y,780,148,48,Former,10sep1998,Hospital HD,03apr2007,N,No,N,N,N,N,N,No
+P9888496,F,N,Caucasoid,,Polycystic Kidney Disease,,N,540,172.5,81.2,Former,01sep1998,Hospital HD,,,No,N,N,N,N,N,No
+P9889259,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,445,165,95,Never,12oct1998,Satellite HD,,,No,N,N,N,N,N,No
+P9889396,M,Y,Caucasoid,,Bladder Neck Obstruction (incl. Prostatiomegaly),,N,381,183,87,Never,21oct1998,Hospital HD,,,No,N,N,N,N,N,No
+P9890296,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,450,181,74,Never,12oct1998,Hospital HD,04nov2010,Y,Yes,N,S,N,N,N,No
+P9890823,M,N,Caucasoid,,Loss of Single Kidney (Trauma-Surgery),(R) NEPHR-HAEMATURIA SYNDROME,Y,451,170,75,Former,21feb1999,Hospital HD,,,No,N,N,N,N,N,No
+P9892251,F,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,790,170,61.5,Former,14jan1999,Hospital HD,09jun2012,Y,No,N,N,N,N,N,No
+P9892512,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,518,170,64,Never,13jul1998,CAPD Hospital/Outpatient,,,Yes,N,Y,N,N,N,No
+P9893547,F,N,Caucasoid,,Microscopic Polyarteritis,PANCA POSITIVE,Y,748,165,85,Former,05jan1999,Hospital HD,,,No,N,N,N,N,N,No
+P9893558,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,550,160,91,Never,08mar1999,Hospital HD,25aug2015,Y,No,N,N,N,N,N,No
+P9893986,M,N,Oceanian - Australian Aboriginal,,Mesangial Proliferative (Iga+),,Y,532,176,104,Former,14jan1998,Hospital HD,,,No,S,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9894109,F,N,Caucasoid,,GN Other (Specify),DIFFUSE MESANGIOSCLEROSIS,Y,562,55,5.6,Never,04jan1999,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P9894761,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,898,178,65,Never,16jun1998,APD/IPD Hospital,,,Yes,N,N,N,N,N,No
+P9896596,M,N,Southern and Central Asian - Indian,,Diabetes Type II (Non-Insulin Requiring),,N,390,170,57,Former,04may1998,CAPD Hospital/Outpatient,07oct2015,Y,Yes,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9896763,F,N,North - East Asian - Chinese,,Advanced GN (Unclassified=End Stage),WITH CRESCENTS,Y,450,150,57.5,Never,31aug1998,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9897271,F,Y,Caucasoid,,Polycystic Kidney Disease,,N,464,200,76,Never,23jun1998,Hospital HD,21jun2016,Y,No,N,N,N,N,N,No
+P9897990,M,Y,Caucasoid,,Renal Vascular Disease-Hypertension (Nephrosclerosis),,Y,592,168,72,Former,18mar2002,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9898451,F,N,Caucasoid,,Other Lower Urinary Tract Abnormalities (with Secondary Reflux),ECTOPIA VESICAE,N,880,160,77,Never,17jun1998,Hospital HD,09nov2015,,No,Y,Y,N,N,N,No
+P9899249,M,N,Oceanian - New Zealand Maori,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,476,170,76.2,Former,18sep1998,Hospital HD,,,No,N,N,N,N,N,No
+P9899441,F,N,Caucasoid,,Mesangial Proliferative (Iga+),MEMBRANOUS GN,Y,540,166,90,,02may1998,Hospital HD,,,No,N,N,N,N,N,No
+P9900701,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,912,166,56.5,Never,28aug1998,CAPD Hospital/Outpatient,,,No,N,N,Y,N,N,No
+P9901150,M,N,Caucasoid,,Diabetes Type II (Insulin Requiring),,N,1070,164,90,Never,17apr1998,Hospital HD,,,No,N,N,N,N,Q,Type 2 - Insulin Requiring
+P9902929,F,N,Caucasoid,,Mesangial Proliferative (No If Studies),,Y,703,180,79.59999999999999,Never,30oct1997,Hospital HD,,,Yes,N,N,N,N,N,No
+P9903120,F,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,875,162,62,Former,26jun1997,Hospital HD,,,Yes,N,N,N,N,N,No
+P9903684,M,N,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,864,170.7,72,Never,11aug1998,Hospital HD,,,No,N,N,N,N,N,No
+P9904234,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,421,165,64,Never,05sep1997,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9904381,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,,157,80,Former,25feb1998,Hospital HD,,,No,N,N,N,N,N,No
+P9904572,M,N,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,750,159,56,Current,15sep1997,Hospital HD,,,No,N,N,N,N,N,No
+P9904595,M,Y,Oceanian - Polynesian (Specify),TONGAN,Uncertain Diagnosis,,N,508,170,63.5,Never,04jan1997,Hospital HD,,,Yes,N,N,N,N,N,No
+P9905190,F,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),CONGENITAL SINGLE KIDNEY,Y,585,179,74,Never,17nov1997,Hospital HD,22oct2014,Y,No,N,N,N,N,N,No
+P9906709,M,N,Caucasoid,,Reflux Nephropathy,,N,641,153.5,48,Current,12nov1997,APD/IPD Hospital,28sep2003,N,No,N,N,N,N,N,No
+P9907833,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,644,155,54,Never,15dec1997,APD/IPD Hospital,,,No,N,N,,N,N,No
+P9910366,M,N,Southern and Central Asian - Indian,,Diabetes Type I (Insulin Dependent),,N,960,167,66,Never,02feb1998,Hospital HD,26apr2008,Y,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9910432,F,N,Caucasoid,,Diabetes Type I (Insulin Dependent),,N,883,173,67,Former,31mar1998,Hospital HD,,,No,N,N,Y,Y,O,Type 1 - Insulin Dependent
+P9910657,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,582,153,97.3,Never,02feb1998,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9911670,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,780,170.1,73.8,Never,01dec1997,Hospital HD,,,No,N,N,N,N,N,No
+P9911860,M,,Caucasoid,,Extra and Intra Capillary GN (Rapidly Progressive),,Y,,177,106.5,Never,30oct1997,Hospital HD,,,No,N,N,N,N,P,Type 2 - Non-Insulin Requiring
+P9912582,F,Y,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,,166,52,Never,02dec1996,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9913718,M,N,Caucasoid,,Membranous GN,,Y,1076,182,98,Former,22jul1997,Hospital HD,31aug2005,Y,No,N,N,N,N,N,No
+P9914798,F,N,Oceanian - New Zealand Maori,,Diabetes Type II (Insulin Requiring),,N,320,181,88,Never,03sep1997,CAPD Hospital/Outpatient,,,Yes,N,Y,N,N,Q,Type 2 - Insulin Requiring
+P9915810,F,N,Caucasoid,,Advanced GN (Unclassified=End Stage),,Y,1175,162,55.2,Never,16jun1997,Hospital HD,,,No,N,N,N,N,N,No
+P9915990,F,N,Caucasoid,,Paraproteinaemia (Including Multiple Myeloma),,N,1390,167,75,Former,11jun1997,Hospital HD,,,No,N,N,N,N,N,No
+P9916475,F,N,Caucasoid,,Analgesic Nephropathy,,N,1100,155,55,Never,24jun1997,Hospital HD,20oct2004,Y,No,N,N,N,N,N,No
+P9917779,F,N,Oceanian - Australian Aboriginal,,Reflux Nephropathy,,N,490,151,52.6,Current,02may1997,Hospital HD,,,No,N,N,N,N,N,No
+P9917880,F,N,Oceanian - New Zealand Maori,,Diabetes Type I (Insulin Dependent),,N,,160,68,,23sep1997,Hospital HD,02dec2001,N,No,N,N,N,N,O,Type 1 - Insulin Dependent
+P9918398,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1100,165.1,63,Never,08jul1997,Hospital HD,,,No,,N,N,N,N,No
+P9919173,M,N,Sub-Saharan African (Specify),SEYCHELLEQUE,Polycystic Kidney Disease,,N,940,163,53.7,Never,08aug1997,Hospital HD,,,No,N,N,N,N,N,No
+P9922762,M,N,South-East Asian - Filipino,,Extra and Intra Capillary GN (Rapidly Progressive),IGA+ GN,Y,523,163.7,53,Never,26jun1996,Hospital HD,,,No,N,N,N,N,N,No
+P9924090,F,N,Caucasoid,,S.L.E.,,Y,589,163,60.4,Never,19nov1996,Hospital HD,,,No,N,N,N,N,N,No
+P9928421,F,N,Caucasoid,,Analgesic Nephropathy,,,671,180,91,Never,01oct1996,Satellite HD,30apr2004,Y,No,N,N,N,N,N,No
+P9928938,F,N,Oceanian - Australian Aboriginal,,Reflux Nephropathy,,,1170,113,20,Never,09oct1996,CAPD Hospital/Outpatient,,,No,N,Y,N,N,N,No
+P9929490,M,Y,Caucasoid,,Reflux Nephropathy,,,1130,139.5,35,Never,25jun1996,Transplant in AUST/NZ,,,No,N,Y,N,N,N,No
+P9930929,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,,172,62,Former,24sep1996,Hospital HD,,,No,S,N,N,N,N,No
+P9931537,M,N,Caucasoid,,Reflux Nephropathy,,,776,153,56,Current,09jun1996,Hospital HD,11oct2010,N,No,Y,N,N,S,N,No
+P9933720,M,N,Oceanian - Australian Aboriginal,,Presumed GN (No Biopsy),,N,448,159,50,Never,02sep1996,CAPD Hospital/Outpatient,,,No,N,N,Y,N,N,No
+P9933922,M,N,Oceanian - New Zealand European,,Advanced GN (Unclassified=End Stage),,Y,720,155,46,Current,26aug1996,Hospital HD,,,No,N,N,Y,N,N,No
+P9935159,M,N,North - East Asian - Chinese,,Mesangial Proliferative (Iga+),,Y,861,173,75,Never,02jul1996,Hospital HD,,,No,N,N,N,N,N,No
+P9935734,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,380,187,65.5,Former,05aug1996,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9936420,F,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,1690,165.1,53,Never,18jan1996,Hospital HD,,,No,N,N,N,N,N,No
+P9937848,F,N,Caucasoid,,Mesangiocapillary GN (Double Contour),,Y,721,153,90,Never,01dec1995,Hospital HD,,,Yes,N,N,N,N,N,No
+P9938266,M,N,Caucasoid,,Polycystic Kidney Disease,,N,670,162.5,50,Former,17oct1995,Hospital HD,11nov2016,Y,No,N,N,N,N,N,No
+P9939885,M,Y,Caucasoid,,Reflux Nephropathy,,,1080,174.5,89,Former,30oct1995,CAPD Hospital/Outpatient,,,No,Y,N,N,N,N,No
+P9940761,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,539,177,73,Never,08feb1996,Hospital HD,08dec2013,N,No,N,N,N,N,N,No
+P9943364,F,N,Caucasoid,,Reflux Nephropathy,,,1500,115.2,23.2,Former,27apr1988,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9944994,F,N,Caucasoid,,Reflux Nephropathy,,,1171,173,63,Never,20feb1987,Hospital HD,,,Yes,N,N,N,N,N,No
+P9945005,M,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,895,188,87,Former,16jun1987,Hospital HD,,,Yes,,N,N,N,N,No
+P9946849,M,N,Caucasoid,,Reflux Nephropathy,,,920,152,38,Former,07jul1987,Transplant in AUST/NZ,13feb2014,Y,No,N,N,Y,N,N,No
+P9947716,F,N,North African and Middle Eastern - Arab (Specify),LEBANESE,Focal Sclerosing GN (Including Hyalinosis),,Y,444,145,40,Never,27jul1987,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9954320,M,N,Caucasoid,,Presumed GN (No Biopsy),,N,1574,172,59,Former,09jan1995,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9954353,M,N,Caucasoid,,Mesangial Proliferative (Iga-),,Y,510,182,68.8,,23jan1995,Hospital HD,,,No,N,N,N,N,N,No
+P9954725,F,N,Oceanian - Polynesian (Specify),SAMOAN,Advanced GN (Unclassified=End Stage),,Y,608,171,84,Never,02nov1994,Hospital HD,11jan2016,N,Yes,N,N,N,N,N,No
+P9954736,M,Y,Caucasoid,,S.L.E.,,Y,761,165,75,Current,05feb1995,Hospital HD,,,No,Y,N,N,N,N,No
+P9954803,F,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,548,177,76,Never,05dec1994,Hospital HD,,,No,N,N,N,N,N,No
+P9955928,M,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,1100,178,101,Current,30mar1995,Hospital HD,,,No,S,S,N,N,N,No
+P9956749,F,N,Caucasoid,,Mesangial Proliferative (Iga+),SLE,Y,,172,68.59999999999999,Never,02dec1994,Hospital HD,,,No,N,N,N,N,N,No
+P9957324,M,N,Caucasoid,,Reflux Nephropathy,,,557,170,57.5,,06mar1995,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9961541,F,N,Caucasoid,,S.L.E.,,Y,882,165,70,,19apr1994,Hospital HD,,,No,N,N,N,N,N,No
+P9965075,M,N,Caucasoid,,Henoch-Schonlein Purpura,,Y,1100,183,116,Former,21jun1994,Hospital HD,,,No,N,N,N,N,N,No
+P9965828,M,N,Caucasoid,,Uncertain Diagnosis,(L) SINGLE KIDNEY,N,788,185,48.2,Never,11may1994,Hospital HD,,,No,Y,N,N,N,N,No
+P9967718,F,N,Caucasoid,,Mesangial Proliferative (Iga+),,Y,654,180,76,Former,25nov1993,Hospital HD,,,No,N,N,Y,N,N,No
+P9968675,M,Y,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,424,175,95,Never,10mar1994,Hospital HD,05apr2010,Y,No,N,N,N,N,N,No
+P9969417,M,N,South-East Asian - Vietnamese,,Mesangial Proliferative (Iga+),,Y,863,156,41.2,Never,10jan1994,Hospital HD,,,No,N,N,N,N,N,No
+P9971913,M,Y,Caucasoid,,Reflux Nephropathy,,N,340,167.7,58,Current,21feb1994,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9977043,M,Y,Caucasoid,,Mesangial Proliferative (Iga+),,Y,1458,185.5,99,Current,21apr1993,Transplant in AUST/NZ,,,No,N,N,N,N,N,No
+P9977393,F,N,Caucasoid,,Focal and Segmental Proliferative GN,,Y,1280,183,104,Never,10apr1993,Hospital HD,,,No,N,N,N,N,N,No
+P9977853,F,,Caucasoid,,Presumed GN (No Biopsy),SINGLE KIDNEY (R),N,,170,68,Former,12apr1993,CAPD Hospital/Outpatient,,,Yes,N,N,N,N,N,No
+P9978214,F,N,Caucasoid,,Reflux Nephropathy,,Y,1010,158,67,Never,10aug1993,Hospital HD,,,No,N,N,N,N,N,No
+P9978630,M,N,Oceanian - New Zealand Maori,,Membranous GN,,Y,716,176.8,72.5,Never,25may1993,Hospital HD,,,No,N,N,N,N,N,No
+P9980013,M,Y,Caucasoid,,Uncertain Diagnosis,,N,507,162,70.5,Never,16aug1993,CAPD Hospital/Outpatient,,,Yes,S,N,N,N,N,No
+P9981982,F,N,Caucasoid,,Membranous GN,,Y,,166,66,Never,01feb1993,Hospital HD,,,No,N,N,N,N,N,No
+P9983795,M,N,Caucasoid,,Reflux Nephropathy,,N,715,156,45,Never,12apr1992,Hospital HD,,,No,N,N,N,N,N,No
+P9985954,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,531,151.2,40.4,Former,23jul1992,APD/IPD Hospital,,,No,N,N,N,N,N,No
+P9986787,M,N,South-East Asian - Vietnamese,,Renal Tuberculosis,,N,1039,164,50,Current,29jun1992,CAPD Hospital/Outpatient,07feb2013,Y,No,N,N,N,N,N,No
+P9988046,M,N,Caucasoid,,Spina Bifida or Myelomeningocoele,SPINA BIFIDA,N,611,170,120,Never,09nov1992,Hospital HD,25jul2000,N,No,N,Y,N,N,N,No
+P9988587,F,Y,Caucasoid,,Congenital Renal Hypoplasia and Dysplasia,,N,770,128,24,Never,23nov1992,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9988800,M,N,Caucasoid,,Neuropathic Bladder,,N,1140,150.2,48.3,Never,01feb1993,CAPD Hospital/Outpatient,,,No,N,N,N,N,N,No
+P9991601,M,Y,Caucasoid,,Polycystic Kidney Disease,,N,450,182,82,Never,09oct1992,Hospital HD,01apr2013,Y,No,N,N,N,N,N,No
+P9992162,F,N,Caucasoid,,Cortical Necrosis,,Y,335,164.2,53,Never,22sep1992,Hospital HD,21dec2001,Y,No,N,N,Y,N,N,No
+P9993380,F,N,Caucasoid,,Presumed GN (No Biopsy),,N,567,185,90,Never,15feb1991,CAPD Hospital/Outpatient,11feb2010,Y,No,N,N,N,N,N,No
+P9994459,M,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,720,168,60,Former,09may1992,Hospital HD,,,No,N,N,N,N,N,No
+P9996439,M,N,Caucasoid,,Polycystic Kidney Disease,,N,844,160,59,Never,22oct1991,Hospital HD,,,No,N,N,N,N,N,No
+P9997721,F,N,Caucasoid,,Focal Sclerosing GN (Including Hyalinosis),,Y,376,175,82,Former,15mar1992,Hospital HD,,,No,N,N,N,N,N,No
